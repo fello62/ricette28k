@@ -1,0 +1,745 @@
+D''oliva,
+18 Cappelle Funghi,
+Prezzemolo,
+Sale,
+1 Cipolla','Preparate il ripieno: pelate e tritate la cipolla. Rompete un uovo in una ciotola e sbattetelo. Aggiungete il formaggio, la cipolla, il dragoncello, il pangrattato, sale e pepe. Amalgamate con la forchetta. Pepate la carne. Spennellate di senape un lato di ciascun pezzo di carne. Disponete la metà delle fette di pancetta su uno dei due pezzi. Ricoprite con il ripieno. Aggiungete il resto della pancetta. Appoggiate il secondo pezzo di manzo. Legate nel senso della lunghezza, a intervalli di 2,5 cm, poi legate nel senso della larghezza. Fate scaldare il forno a 200 gradi. Fate scaldare l''olio in una padella. Fate rosolare la carne da entrambe le parti a fuoco vivo per quattro o cinque minuti. Appoggiate sul piano di lavoro un foglio di alluminio che sia molto più grande del pezzo di manzo farcito. Scolate il pezzo di carne conservandone il succo di cottura. Appoggiatelo al centro del foglio di alluminio, alzando i bordi di quest''ultimo per formare una specie di recipiente. Versate il vino rosso nella pentola. Fate bollire da due a tre minuti grattando il fondo del recipiente per staccarne il sugo della carne. Versate il sugo sul pezzo di carne. Pelate e tritate la cipolla, cospargetene il manzo. Chiudete la carne nel foglio di alluminio. Passate nel forno e lasciate cuocere per circa un''ora. Aprite il foglio di alluminio e lasciate cuocere ancora quindici minuti. Quando la carne è cotta, scolatela e lasciatela riposare due o tre minuti, appoggiatela su un piatto di portata, togliete il filo e bagnatela con il sugo di cottura. Tenete al caldo. Preparate la guarnitura: fate scaldare l''olio a fuoco medio nella pentola. Asciugate le teste dei funghi e fatele rosolare tre minuti nell''olio bollente. Scottate i pomodori, pelateli e tagliateli a piccoli dadi. Tagliate le olive a fettine sottili. Tagliate il prosciutto a listarelle, disponetele in diagonale sulla carne. Decorate con le fettine di olive, mettete ai lati i funghi saltati, riempiteli con i cubetti di pomodori. Decorate con le foglie di prezzemolo e servite. Vino consigliato: Barbera.',5221);
+INSERT INTO "ricette" VALUES (14384,'Manzo Saporito','Carne','Manzo',4,' -','600 G Rosetta Di Manzo (o Scannello Di Manzo),
+1 Cucchiaino Cardamomo In Polvere,
+1 Cucchiaino Timo In Polvere,
+1 Cucchiaino Coriandolo In Polvere,
+2 Cucchiaini Pepe Nero,
+4 Cucchiaini Sale,
+2 Foglie Alloro,
+Poco Olio D''oliva','Mescolate le spezie e il sale, spargetele sul tagliere e strofinatevi la carne da tutti i lati in modo da insaporirla bene. Legatela con lo spago da cucina e cuocetela in un tegame alto con poco olio facendola prima rosolare a fiamma vivace su tutti i lati e poi proseguendo la cottura a tegame coperto per 20 minuti.',1106);
+INSERT INTO "ricette" VALUES (14385,'Manzo, Patate E Cipolle','Carne','Manzo',4,'Luogo: Giappone.','450 G Patate,
+150 G Manzo A Fettine Sottili,
+300 G Cipolle Affettate,
+1 Cucchiaio Olio D''oliva,
+40 Cl Acqua,
+4 Cucchiai Salsa Di Soia,
+4 Cucchiai Zucchero Di Canna,
+2 Cucchiai Vino Bianco','Si tratta di un tipico piatto giapponese che viene solitamente servito a cena. Pelate le patate e tagliatele in 4-5 pezzi ciascuna. Mettete una padella larga e profonda sul fuoco e versatevi l''olio e il manzo. Fate rosolare per un paio di minuti, poi aggiungetevi cipolle e patate. Continuate a rosolare per altri 3 minuti. Aggiungetevi acqua, salsa di soia, zucchero e vino. Portate ad ebollizione. Schiumate ogni tanto e cuocete per circa 20-30 minuti fino a quando le patate e siano cotte.',1902);
+INSERT INTO "ricette" VALUES (14386,'Mar Del Plata Pousse Café','Bevande','Cognac',1,' -','1/2 Chartreuse Gialla,
+1/2 Cognac,
+1 Tuorlo D''uovo','Versare direttamente nel tumbler stretto in modo che gli ingredienti non si mescolino tra loro; il bicchiere può essere raffreddato precedentemente nel frigorifero, ma non troppo.',407);
+INSERT INTO "ricette" VALUES (14387,'Mar-co','Bevande','Vermouth',1,' -','2/3 Vermouth Martini Bianco,
+1/3 Coky Boero,
+Per Guarnire:,
+1 Fetta Banana,
+1 Ciliegina Rossa Al Maraschino','Agitare vigorosamente e servire nella coppetta da cocktail ben fredda. Guarnire con una fetta di banana e una ciliegina rossa al maraschino.',265);
+INSERT INTO "ricette" VALUES (14388,'Maracaibo','Bevande','Caffè',1,' -','1/4 Anisetta,
+2/4 Peppermint Verde Get Freres,
+1/4 Caffè Espresso Freddo,
+Per Completare:,
+Acqua Minerale,
+Per Guarnire:,
+1 Fetta Limone','Si prepara direttamente nel bicchiere tumbler con alcuni cubetti di ghiaccio cristallino, completando con acqua minerale e guarnendo con 1 fetta di limone.',238);
+INSERT INTO "ricette" VALUES (14389,'Maracaibo (2)','Bevande','Rum Bianco',1,' -','2/4 Rum Bianco,
+1/4 Vino Porto Rosso (vino Rosso Porto),
+1/4 Cointreau','Versate nel mixer alcuni cubetti di ghiaccio, aggiungete il vino e i liquori e poi versate nei bicchieri.',300);
+INSERT INTO "ricette" VALUES (14390,'Maracao','Bevande','Gin',1,' -','1/5 Vermouth Rosso,
+1/5 Vermouth Dry,
+3/5 Gin,
+2 Spruzzi Bitter All''arancia,
+Per Servire:,
+Alcune Fettine Arancia,
+Alcune Fettine Limone,
+Alcune Fettine Mandarino,
+Alcune Fettine Pompelmo','Agitare nel mixer con ghiaccio tritato. Servire nel calice ampio, con fettine di arancia, di limone, di mandarino e di pompelmo.',446);
+INSERT INTO "ricette" VALUES (14391,'Maracas','Bevande','Succo D''ananas',1,' -','1/4 Fragola Drink Boero,
+1/4 Gordon''s Gin,
+2/4 Succo D''ananas Del Monte,
+Per Guarnire:,
+1 Fetta Limone,
+1 Fragolina','Agitare vigorosamente e servire nel bicchiere old fashion con un paio di cubetti di ghiaccio. Guarnire con una fetta di limone e una fragolina.',189);
+INSERT INTO "ricette" VALUES (14392,'Maraja','Bevande','Cognac',1,' -','1/2 Vino Champagne,
+1/2 Cognac,
+Per Servire:,
+1 Scorza Arancia','Mescolare delicatamente nel mixer con ghiaccio in cubetti. Servire nel calice panciuto, con una scorza d''arancia.',262);
+INSERT INTO "ricette" VALUES (14393,'Maraschino','Bevande','Alcool',4,' -','350 G Acqua,
+350 G Alcool,
+250 G Zucchero','Mescolare tutti gli ingredienti.',1541);
+INSERT INTO "ricette" VALUES (14394,'Maraschino (2)','Bevande','Amarene',4,' -','500 G Alcool A 90 Gradi,
+300 G Noccioli Di Amarene,
+400 G Zucchero,
+400 G Acqua','Mettete i noccioli di amarene in un vaso, coperti dall''alcool e lasciateli macerare per tre mesi. Trascorso il tempo previsto filtrate l''alcool. Preparate uno sciroppo facendo bollire l''acqua e zucchero per 10 minuti circa. Filtrate lo sciroppo ottenuto e mescolatelo all''alcool. Imbottigliate e dopo due giorni filtrate di nuovo. Ripetete l''operazione se il liquore non dovesse risultare limpido.',2769);
+INSERT INTO "ricette" VALUES (14395,'Maratona','Bevande','Vermouth Rosso',1,' -','1/4 Succo Di Limone,
+2/4 Vermouth Rosso,
+1/4 Slivoviz,
+1 Spruzzo Bitter All''arancia,
+Per Servire:,
+1 Fetta Grande Arancia','Agitare nel mixer con ghiaccio in cubetti. Servire nel gotto basso, con una grossa fetta d''arancia.',263);
+INSERT INTO "ricette" VALUES (14396,'Marbella','Bevande','Tequila',1,' -','1/4 Vermouth Rosso,
+1/4 Bitter Amaro,
+2/4 Tequila,
+1 Cucchiaio Succo Di Limone,
+2 Spruzzi Sciroppo Di Lampone','Agitare nel mixer con molto ghiaccio tritato. Servire nel tumbler stretto.',459);
+INSERT INTO "ricette" VALUES (14397,'Marcaff','Bevande','Sambuca',1,' -','4/10 Artic Vodka E Fragola,
+Fragola Drink Boero,
+2/10 Panna,
+4/10 Sambuca Molinari,
+Per Guarnire:,
+1 Fragola','Versare gli ingredienti nello shaker con abbondante ghiaccio. Agitare vigorosamente e servire nella coppetta da cocktail ben fredda. Guarnire con una fragola.',516);
+INSERT INTO "ricette" VALUES (14398,'Marchesa Al Cioccolato','Dessert','Cioccolato',4,' -','250 G Cioccolato,
+250 G Burro,
+130 G Zucchero,
+100 G Farina,
+4 Uova,
+40 Cl Salsa Di Fragole,
+Poco Latte','Un dolce da cuocere a bagnomaria nel forno. Da servire freddo. Montare i tuorli delle uova con lo zucchero sinché si ottiene un composto liscio e scorrevole. Mescolare qui il cioccolato con qualche cucchiaio di latte tiepido e, sempre mescolando, aggiungere la farina. Montare il burro a crema ed unirlo al composto, infine incorporarvi con delicatezza gli albumi sbattuti a neve ben ferma. Imburrare uno stampo scannellato, versarvi il composto e cuocerlo in forno a bagnomaria con il recipiente coperto (deve rimare aperto solo uno spiraglio per permettere la fuoriuscita del vapore). Togliere il dolce dal forno a 200 gradi dopo circa un''ora di cottura e fare freddare. Al momento di servire, immergere lo stampo per qualche secondo in acqua calda, capovolgerlo in un piatto di servizio, guarnire il dolce a piacere e ricoprirlo con la salsa di fragola.',4623);
+INSERT INTO "ricette" VALUES (14399,'Marchesine','Dessert','Mandorle Dolci',4,' -','125 G Mandorle Dolci,
+125 G Zucchero A Velo,
+125 G Cacao,
+2 Tuorli D''uovo,
+1 Bicchierino Cognac,
+100 G Cioccolato A Granelli','Pestare le mandorle ed impastarle con lo zucchero a velo e il cacao, ammorbidendo coi tuorli e il cognac, ma lasciando l''impasto piuttosto compatto. Formare delle pallottoline, passarle nel cioccolato a granelli e disporle nelle scodelline di plastica, apposite da pasticceria. Lasciare riposare in luogo fresco per almeno 2 ore e mezzo.',2509);
+INSERT INTO "ricette" VALUES (14400,'Marcia Dei Granatieri','Primo','Patate',4,' -','Patate,
+Abbondante Cipolla,
+Paprica Dolce,
+Olio D''oliva (o Strutto),
+Sale,
+Pasta Tipo Losanghe','Far appassire abbondante cipolla, tritata molto finemente, nell''olio o nello strutto, senza far colorire; aggiungere, lontano dal fuoco, la paprica, il sale ed un po'' d''acqua. Rimettere sul fuoco, far bollire. Aggiungere le patate, lessate e schiacciate con la forchetta, e la pasta, cotta a parte.',2010);
+INSERT INTO "ricette" VALUES (14401,'Marco Polo','Bevande','Karkadè',4,' -','350 G Alcool A 95 Gradi,
+400 G Zucchero,
+350 G Acqua,
+10 G Karkadè,
+3 G Anice Contuso,
+1/3 Stecca Vaniglia Contusa','Questo liquore è di facile preparazione e facilita la digestione. Si lasciano macerare le droghe in un vaso con l''alcool per circa quindici giorni, dopo averle preventivamente frantumate in un mortaio di marmo. Si aggiunge lo zucchero disciolto nell''acqua, si lascia riposare un giorno, si filtra e si imbottiglia. Aspettate almeno un mese prima di consumare questo delizioso liquore.',2139);
+INSERT INTO "ricette" VALUES (14402,'Mare E Orto','Primo','Gamberetti',4,' -','100 Cl Brodo Di Dado,
+250 G Carote, Zucchine E Piselli,
+60 G Gamberetti,
+1 Patata Grande,
+2 Cucchiai Prezzemolo Tritato,
+Sale','Portate il brodo a ebollizione e cuocetevi carote e zucchine tagliate a cubetti, i piselli sgusciati, la patata grattugiata. Aggiungete i gamberetti e due cucchiai di prezzemolo tritato, salate. Cuocete ancora per circa 5 /10 minuti in modo che la minestra raggiunga una certa densità. Servite ben calda con un filo d''olio.',702);
+INSERT INTO "ricette" VALUES (14403,'Mare Verde','Bevande','Vodka',1,' -','3 Cubetti Ghiaccio,
+2 Cl Vermouth Secco,
+2 Cl Vodka,
+2 Cl Crema Di Menta Verde,
+Alcuni Chiodi Di Garofano','Guardando nel fondo del bicchiere riempito con questo cocktail si avrà l''impressione di vedere le onde del mare. Mettete i cubetti di ghiaccio nello shaker. Unite il vermut, la vodka e la crema di menta verde. Agitate brevemente ma con forza e filtrate in un bicchiere da cocktail. per qualche istante, con l''apposita asticella, e spolverizzate con i chiodi di garofano ridotti in polvere. Servite con cannuccia.',117);
+INSERT INTO "ricette" VALUES (14404,'Marenross','Bevande','Amarena',4,' -','100 Foglie Amarena,
+1/2 Limone (scorza),
+100 Cl Vino,
+200 G Zucchero,
+330 G Alcool','Macerare in un recipiente di vetro foglie, zucchero, vino, buccia di limone tagliata a striscioline sottili. Agitare ogni tanto per far sciogliere lo zucchero. Dopo 45 giorni aggiungere l''alcool e lasciar stare per altri 20 giorni, poi filtrare ed imbottigliare. Far stagionare per qualche mese prima di consumare.',2146);
+INSERT INTO "ricette" VALUES (14405,'Margarita','Bevande','Tequila',1,' -','5/12 Tequila,
+3/12 Triple Sec,
+2/12 Succo Di Lime,
+2/12 Succo Di Limone,
+Per La Coppetta:,
+Sale','Si prepara nello shaker con cubetti di ghiaccio. Servire nella coppetta da cocktail ben fredda con il bordo incrostato di sale.',268);
+INSERT INTO "ricette" VALUES (14406,'Margarita (10)','Bevande','Tequila',4,' -','5/10 Tequila,
+3/10 Triple Sec,
+2/10 Succo Di Lime,
+Sale','Si inumidisce il bordo di una coppa martini col succo di lime e lo si brina col sale. Mentre il bicchiere attende in freezer, in uno shaker si mettono 3/4 di ghiaccio con gli altri ingredienti e si scuote energicamente per 8 secondi, quindi si filtra tutto nella coppa.',336);
+INSERT INTO "ricette" VALUES (14407,'Margarita (2)','Bevande','Tequila',1,' -','2/4 Tequila,
+1/4 Triple Sec,
+1/4 Succo Di Lime (o Succo Di Limone),
+Per Il Bordo:,
+Sale','Si prepara nello shaker con ghiaccio tritato e si serve nel bicchiere da cocktail con l''orlo bordato di sale.',325);
+INSERT INTO "ricette" VALUES (14408,'Margarita (3)','Bevande','Tequila',1,' -','3/6 Tequila,
+1/6 Triple Sec,
+2/6 Succo Di Limone,
+Sale','Strofinare l''orlo di un bicchiere Margarita con il succo di lime prima e col sale dopo. Mescolare bene tutti gli ingredienti con ghiaccio, mettere in un bicchiere e servire.',286);
+INSERT INTO "ricette" VALUES (14409,'Margarita (4)','Bevande','Tequila',1,' -','2/3 Tequila,
+1/3 Triple Sec,
+1/2 Limone (succo),
+Sale Fino,
+1 Spicchio Limone','Inumidite il bordo del calice (o doppia coppetta) con lo spicchio di limone, adagiate il bordo inumidito in un piattino con dentro sufficiente sale e poi mettetelo a raffreddare nel freezer. Versate i tre ingredienti nello shaker con dei cubetti di ghiaccio, agitate per 6-8 secondi, infine servite nel calice tenuto a raffreddare.',414);
+INSERT INTO "ricette" VALUES (14410,'Margarita (5)','Bevande','Tequila',1,' -','2/3 Tequila,
+1/3 Triple Sec,
+1/2 Lime (succo),
+Sale Fino,
+1 Spicchio Limone','Inumidite il bordo del calice (o doppia coppetta) con lo spicchio di limone, adagiate il bordo inumidito in un piattino con dentro sufficiente sale e poi mettetelo a raffreddare nel freezer. Versate i tre ingredienti nello shaker con dei cubetti di ghiaccio, agitate per 6-8 secondi, infine servite nel calice tenuto a raffreddare.',417);
+INSERT INTO "ricette" VALUES (14411,'Margarita (6)','Bevande','Tequila',1,' -','43 G Tequila,
+14 G Triple Sec,
+28 G Succo Di Limone,
+1 Limone (scorza),
+Sale','Strofinare l''orlo del bicchiere con la buccia del limone, quindi salarlo leggermente. Agitare insieme con il ghiaccio tutti gli ingredienti eccetto il sale. Mettere il composto ottenuto nel bicchiere.',239);
+INSERT INTO "ricette" VALUES (14412,'Margarita (7)','Bevande','Tequila',1,' -','43 G Tequila,
+14 G Triple Sec,
+28 G Succo Di Limone,
+1 Lime (scorza),
+Sale','Strofinare l''orlo del bicchiere con la buccia del lime, quindi salarlo leggermente. Agitare insieme con il ghiaccio tutti gli ingredienti eccetto il sale. Mettere il composto ottenuto nel bicchiere.',243);
+INSERT INTO "ricette" VALUES (14413,'Margarita (8)','Bevande','Tequila',1,' -','5/10 Tequila,
+3/10 Triple Sec,
+2/10 Succo Di Limone,
+Per La Coppetta:,
+Sale','Agitare gli ingredienti nello shaker. Servire in coppetta da cocktail orlata di sale.',336);
+INSERT INTO "ricette" VALUES (14414,'Margarita (9)','Bevande','Tequila',1,' -','5/10 Tequila,
+3/10 Triple Sec,
+2/10 Succo Di Lime,
+Per La Coppetta:,
+Sale','Agitare gli ingredienti nello shaker. Servire in coppetta da cocktail orlata di sale.',337);
+INSERT INTO "ricette" VALUES (14415,'Margarita (aculpulco 1948 Original)','Bevande','Tequila',1,' -','Sale,
+2/8 Cointreau,
+2/8 Succo Di Lime,
+4/8 Tequila Bianca','Agitare con ghiaccio e mettere in un bicchiere con il bordo strofinato con il sale.',323);
+INSERT INTO "ricette" VALUES (14416,'Margherita','Bevande','Gin',1,' -','2/5 Vermouth Dry,
+1/5 Triple Sec,
+2/5 Gin','Agitare a lungo nello shaker, con ghiaccio in cubetti. Servire nel tumbler stretto con ghiaccio.',279);
+INSERT INTO "ricette" VALUES (14417,'Margherita (2)','Bevande','Tequila',1,' -','1/8 Succo Di Limone,
+1/8 Succo D''arancia,
+6/8 Tequila,
+1 Spruzzo Sciroppo Di Lampone,
+1 Cucchiaio Triple Sec,
+Per Servire:,
+Succo Di Limone,
+Sale Fino,
+Per Decorare:,
+1 Margherita','Agitare nel mixer con molto ghiaccio tritato. Servire nel tumbler ampio il cui bordo, bagnato di succo di limone, sia stato precedentemente passato nel sale fino. Decorare con una margherita.',517);
+INSERT INTO "ricette" VALUES (14418,'Margottini','Antipasto','Semolino',6,'Cottura: 40 minuti.','280 G Semolino,
+150 G Formaggio Groviera,
+80 G Burro,
+100 Cl Brodo Di Carne,
+20 G Formaggio Grana Grattugiato,
+20 G Pangrattato,
+6 Uova,
+Sale,
+Pepe,
+Per Impreziosire I Margottini:,
+1 Dadino Tartufo Nero','Versate il brodo in una casseruola, portatelo a bollore e unitevi a pioggia il semolino con una presa di sale. Lasciate cuocere, mescolando con un cucchiaio di legno, per 30 minuti. Togliete dal fuoco e, continuando a mescolare, unite 60 g di burro, il grana e il pepe. Con il burro rimasto ungete 6 stampini di alluminio (i margottini), cospargeteli con il pangrattato e con un cucchiaio ricoprite il fondo e le pareti con uno strato spesso di parte del semolino. Affettate sottilmente il groviera e mettetelo all''interno dei margottini. Sgusciate le uova, mettetene una in ogni stampino senza rompere il tuorlo. Ricoprite ogni uovo con il semolino rimasto e mettete in forno a 180 gradi per 6-8 minuti. Vino consigliato: Valcalepio bianco.',3282);
+INSERT INTO "ricette" VALUES (14419,'Maria','Bevande','Tia Maria',1,' -','1 Cucchiaio Grappa,
+3 Cucchiai Tia Maria','Questo digestivo si prepara direttamente nel bicchiere (a calice), mescolando insieme i due liquori. Se lo preferite a temperatura ambiente, servitelo subito; altrimenti tenetelo in frigorifero per 15 minuti.',291);
+INSERT INTO "ricette" VALUES (14420,'Maria Bonita','Bevande','Rum Bianco',1,' -','6/10 Succo D''ananas,
+3/10 Rum Bianco,
+1/10 Cointreau,
+Per Decorare:,
+1 Pezzo Ananas','Versare i primi 3 ingredienti in un mixing-glass pieno di ghiaccio tritato. Mescolare bene. Passare in un bicchiere e decorare con 1 pezzo d''ananas.',187);
+INSERT INTO "ricette" VALUES (14421,'Maria Chiara','Bevande','Vodka',1,' -','3/10 Vodka Glaciale Keglevich Menta,
+7/10 Vino Spumante Pinot Chardonnay Cinzano,
+Alcune Gocce Tanqueray Gin','Si prepara direttamente nel bicchiere flute ghiacciato versando alla fine il Pinot ben freddo. Mescolare delicatamente.',233);
+INSERT INTO "ricette" VALUES (14422,'Marianna','Bevande','Vermouth Bianco',1,' -','6/8 Vermouth Bianco,
+1/8 Bitter Amaro,
+1/8 Gin,
+Per Servire:,
+1 Scorza Di Limone','Agitare nel mixer con ghiaccio. Servire nel tumbler stretto, con una scorza di limone spremuta nel bicchiere.',230);
+INSERT INTO "ricette" VALUES (14423,'Marianna (2)','Bevande','Vodka',1,' -','1/3 Succo D''arancia,
+1/3 Vodka,
+1/3 Curacao Blu,
+Per Completare:,
+Vino Champagne,
+Per Guarnire:,
+1 Fetta Limone,
+1 Fetta Arancia,
+Alcune Foglie Menta Fresca','Si prepara nel mixing glass. Riempire di champagne. Guarnire con fetta di limone, d''arancia e foglioline di menta fresca.',341);
+INSERT INTO "ricette" VALUES (14424,'Mariconda','Primo','Pane',4,' -','180 G Mollica Di Pane,
+50 G Burro,
+3 Uova,
+50 Cl Latte,
+40 G Formaggio Parmigiano,
+Noce Moscata,
+150 Cl Brodo Di Carne,
+Per Servire:,
+Parmigiano','Sbriciolare la mollica in un recipiente e ricoprirla di latte. Dopo mezz''ora strizzarla e metterla in un tegamino antiaderente con il burro, e farla asciugare. Versare in una terrina con le uova, 4 cucchiaiate di parmigiano grattugiato, sale, pepe e noce moscata. Mescolare bene e lasciar riposare coperto. Scaldare il brodo, e quando bolle abbassare il fuoco e prendere il composto a mezzi cucchiaini e farli cadere nel brodo, proseguendo velocemente. Cuocere per circa 5 minuti, e servire con parmigiano a parte.',2516);
+INSERT INTO "ricette" VALUES (14425,'Marie','Bevande','Limoncello',1,' -','4/10 Limoncello Toschi,
+3/10 Tanqueray Gin,
+2/10 Bitter Campari,
+1/10 Vermouth Cinzano Dry','Si prepara nello shaker con ghiaccio. Agitare vigorosamente e servire nella coppetta da cocktail ben fredda.',344);
+INSERT INTO "ricette" VALUES (14426,'Marie Brizard','Bevande','Succo Di Limone',1,' -','2 Dita Marie Brizard,
+1 Dito Succo Di Limone,
+Acqua Gassata (o Tonic Water)','Versare nel bicchiere grande due dita di Marie Brizard; un dito di succo di limone, aggiungere acqua gassata o tonic water fredde, cubetti di ghiaccio. Mescolare e servire.',117);
+INSERT INTO "ricette" VALUES (14427,'Marie Helene Crusta','Bevande','Vodka',1,' -','5 Cubetti Ghiaccio,
+3 Cucchiai Vodka,
+2 Cucchiai Apricot Brandy,
+1 Cucchiaio Succo Di Limone,
+1 Cucchiaio Succo D''arancia,
+1 Spruzzo Granatina,
+1 Spicchio Limone,
+Per La Crusta:,
+Zucchero','Inumidite col limone il bordo del bicchiere, immergetelo nello zucchero e ponetelo nel freezer almeno per dieci minuti. Mettete il ghiaccio nello shaker. Versate la vodka l''Apricot, il succo di limone e il succo di arancia. Aggiungete la Granatina. Agitate energicamente per alcuni secondi lo shaker ben chiuso. Versate la miscela nel calice facendo attenzione a non bagnare lo zucchero.',638);
+INSERT INTO "ricette" VALUES (14428,'Mariella','Bevande','Succo D''uva',1,' -','4/5 Succo D''uva,
+1/5 Vodka,
+Per Decorare:,
+Alcune Foglie Menta','Si prepara direttamente nei bicchieri con ghiaccio, decorandoli con foglie di menta.',155);
+INSERT INTO "ricette" VALUES (14429,'Marillenknoedel','Primo','Albicocche',6,' -','1000 G Patate,
+280 G Burro,
+50 G Semolino,
+250 G Farina,
+1 Uovo Intero,
+2 Tuorli D''uovo,
+1000 G Albicocche,
+Sale,
+Zucchero In Dadi,
+Zucchero,
+150 G Pangrattato,
+Cannella In Polvere','Lessare le patate, sbucciarle, lasciarle intiepidire e passarle. Mescolarle con il burro ammorbidito, il semolino e una presa di sale. Aggiungere l''uovo e i tuorli e la farina setacciata e lavorare fino a ottenere una pasta liscia che verrà lasciata 1/2 ora a riposare. Stendere la pasta fino ad ottenere uno spessore di circa 1/2 cm sul piano infarinato e ritagliare dei quadrati di 8-10 cm. Dopo aver inserito un cubetto di zucchero nelle albicocche, avvolgerle nei quadrati di pasta. Lessarle per circa 10 minuti in acqua salata a fuoco basso. Fondere il resto del burro, rosolarvi il pangrattato e rotolarvi gli gnocchi ben sgocciolati. Cospargerli di zucchero e di cannella in polvere.',5238);
+INSERT INTO "ricette" VALUES (14430,'Marilyn','Bevande','Vodka',1,' -','2/10 Succo D''ananas Del Monte,
+2/10 Ron Pampero White,
+4/10 Kodiak Vodka Alla Pesca,
+2/10 Fragola Drink Boero,
+Per Guarnire:,
+1 Rondella Kiwi,
+1 Ciliegina Rossa Al Maraschino,
+Alcune Foglie Menta','Agitare vigorosamente e servire nel bicchiere tumbler alto con cubetti di ghiaccio. Guarnire con una rondella di kiwi, una ciliegina rossa al maraschino, alcune foglie di menta e cannucce.',339);
+INSERT INTO "ricette" VALUES (14431,'Marilù','Bevande','Whisky',1,' -','1/6 Apricot De Kuyper,
+4/6 Four Roses Bourbon Whisky,
+1/6 Succo Di Limone,
+Per Guarnire:,
+1 Ciliegina Rossa Al Maraschino','Versare gli ingredienti nello shaker con abbondante ghiaccio. Agitare vigorosamente e servire nella coppetta da cocktail ben fredda. Guarnire con una ciliegina rossa al maraschino.',288);
+INSERT INTO "ricette" VALUES (14432,'Marimba','Bevande','Vermouth Rosso',1,' -','1/4 Vermouth Rosso,
+1/4 Bitter Amaro,
+2/4 Vodka,
+Per Decorare:,
+1 Ravanello Tondo','Agitare nel mixer con ghiaccio in cubetti. Servire in calice decorando con un ravanello tondo.',309);
+INSERT INTO "ricette" VALUES (14433,'Marina','Bevande','Vermouth',1,' -','2/10 Aperol,
+1/10 Cointreau,
+3/10 Gordon''s Gin,
+4/10 Vermouth Martini Bianco,
+Per Guarnire:,
+1 Spirale Scorza D''arancia,
+1 Ciliegina Rossa','Si prepara nel mixing glass con ghiaccio. Mescolare delicatamente e servire nella coppetta da cocktail ben fredda. Guarnire con una sottile spirale di scorza d''arancia e una ciliegina rossa.',331);
+INSERT INTO "ricette" VALUES (14434,'Marina (2)','Bevande','Rum',1,' -','1/2 Sciroppo Di Menta,
+1/2 Rum,
+Per Servire:,
+1 Spruzzo Schweppes,
+Per Decorare:,
+1 Fetta Arancia,
+1 Fogliolina Menta Fresca','Scuotere nello shaker con poco ghiaccio tritato. Servire nel gotto alto con uno spruzzo di schweppes. Decorare con una fetta d''arancia e una fogliolina di menta fresca.',439);
+INSERT INTO "ricette" VALUES (14435,'Marinata Al Brandy','Salsa','Brandy',4,' -','3 Cucchiai Brandy,
+4 Cucchiai Olio D''oliva,
+Sale,
+1 Rametto Timo,
+1 Foglia Alloro,
+Pepe','Mescolate il brandy con l''olio, un rametto di timo, una foglia d''alloro, sale e pepe. Immergetevi la carne per alcune ore. Ottima per carni bianche.',1725);
+INSERT INTO "ricette" VALUES (14436,'Marinata Al Ginepro','Salsa','Ginepro',4,' -','100 Cl Vino Rosso,
+1 Cipolla,
+10 Bacche Ginepro,
+Sale,
+Pepe','Versate il vino in una larga terrina e aggiungetevi la cipolla tagliata a fettine, le bacche di ginepro pestate, sale e pepe. Immergetevi la carne da 5 a 12 ore girandola frequentemente.',786);
+INSERT INTO "ricette" VALUES (14437,'Marinata Al Limone','Salsa','Limone',4,' -','10 Cl Olio D''oliva Extra-vergine,
+1 Limone (succo),
+1 Scalogno,
+1 Mazzetto Prezzemolo,
+1 Pizzico Pepe','Mettere in una ciotola un pizzico di pepe appena macinato, il succo di limone e l''olio e battere leggermente gli ingredienti con una forchetta, unirvi lo scalogno e il prezzemolo tritati.',927);
+INSERT INTO "ricette" VALUES (14438,'Marinata Al Vino Bianco','Salsa','Vino Bianco',4,' -','100 Cl Vino Bianco Secco,
+25 Cl Olio D''oliva,
+Cipolla,
+1 Limone,
+Sale,
+Pepe','Affettate la cipolla, copritela con un litro di vino, l''olio, il succo del limone, sale, pepe. Immergetevi il pesce per 2 ore.',3043);
+INSERT INTO "ricette" VALUES (14439,'Marinata Al Vino Rosso','Salsa','Vino Rosso',4,' -','100 Cl Vino Rosso,
+3 Bicchieri Aceto Di Vino,
+2 Bicchieri Olio D''oliva,
+2 Carote,
+2 Cipolle Rosse,
+2 Spicchi Aglio,
+Alcune Foglie Timo,
+Alcune Foglie Alloro,
+Sale,
+Pepe In Grani','Tagliate a fettine sottili le carote, le cipolle e l''aglio e dividete il ricavato in due parti. Sul fondo di un recipiente disponete un primo strato di verdure miste, aggiungete alcune foglioline di timo e d''alloro, adagiatevi sopra la carne. Ricoprite con un secondo strato di verdure, un po'' di timo e alloro, cospargete pepe in grani e sale. Versate il vino mescolato con olio e aceto. Tenete in luogo fresco almeno 12 ore. Ottima per carni rosse e selvaggina.',3594);
+INSERT INTO "ricette" VALUES (14440,'Marinata All''aceto','Salsa','Aceto Di Vino Bianco',4,' -','1 Bicchiere Aceto Di Vino Bianco,
+1 Limone,
+1 Bicchiere Olio D''oliva,
+Prezzemolo,
+1 Pizzico Origano,
+Rosmarino,
+Sale,
+Pepe','Emulsionate aceto, olio e succo di limone, versate il tutto in una larga terrina. Aggiungete il rosmarino e il prezzemolo tritati, un pizzico di origano, sale e pepe. Lasciatevi insaporire il pesce un paio d''ore prima di cuocerlo.',1406);
+INSERT INTO "ricette" VALUES (14441,'Marinata Alla Senape','Salsa','Senape Di Digione',4,' -','10 Cl Olio D''oliva Extra-vergine,
+3 Cucchiai Aceto Di Vino Bianco,
+1 Scalogno,
+2 Cucchiai Senape Di Digione,
+2 Cucchiai Succo Di Limone,
+1 Cucchiaino Pepe In Grani','Mettere in una ciotola l''olio, l''aceto, la senape, il succo di limone, i grani di pepe pestati, battere gli ingredienti con una forchetta, aggiungervi lo scalogno sbucciato e tritato e amalgamarlo.',980);
+INSERT INTO "ricette" VALUES (14442,'Marinata Alle Erbe','Salsa','Prezzemolo',4,' -','1 Bicchiere Vino Bianco Secco,
+10 Cl Olio D''oliva Extra-vergine,
+1 Mazzetto Prezzemolo,
+Alcuni Rametti Origano,
+Alcuni Rametti Maggiorana,
+1 Rametto Rosmarino,
+Alcuni Rametti Timo,
+1 Foglia Alloro,
+1 Pizzico Pepe Nero,
+1 Pizzico Sale','Lavare le erbe aromatiche, asciugarle delicatamente e tritarle. Versare in una ciotola il vino, l''olio, un pizzico di sale e pepe e battere gli ingredienti con una forchetta, unirvi infine le erbe aromatiche.',1086);
+INSERT INTO "ricette" VALUES (14443,'Marinata Allo Yogurth','Salsa','Yogurth',4,' -','50 Cl Yogurth Magro,
+1 Cipolla,
+Pepe Nero,
+Sale','Pulite la cipolla e frullatela, filtrate il succo con un passino e unite yogurth, sale e pepe. Immergetevi la carne per 3-4 ore. Questa marinata è ottima per carni di capretto e agnello.',251);
+INSERT INTO "ricette" VALUES (14444,'Marinata Aromatica','Salsa','Cipolla',4,' -','1 Cipolla,
+Prezzemolo,
+Timo,
+Alloro,
+Aglio,
+Olio D''oliva,
+Succo Di Limone,
+Sale,
+Pepe','Salate e pepate la carne da marinare, quindi copritela con fettine di cipolla, prezzemolo, timo e alloro sminuzzati, aglio tagliato a lamelle sottili. Sopra versate l''olio emulsionato con un po'' di succo di limone. Tenete in fresco per circa 2 ore. Si può usare anche per marinare carne di pollo e tacchino.',813);
+INSERT INTO "ricette" VALUES (14445,'Marinata Cotta','Salsa','Cipolla',8,'Preparazione: più di 120 minuti.','250 G Cipolle,
+200 G Sedano,
+150 G Carote,
+3 Foglie Alloro,
+3 Chiodi Di Garofano,
+1 Bottiglia Vino Bianco Secco,
+10 Cl Aceto Di Vino,
+Poco Sale,
+2 Bicchieri Acqua','Le dosi per marinare 1000 g di carne bovina. Mettete le verdure e gli aromi in una pentola, con il vino, 10 cl di aceto, 2 bicchieri d''acqua e poco sale fino. Portate a ebollizione e lasciate cuocere a fuoco basso e pentola coperta per circa un''ora. Versate ancora bollente sul pezzo di carne da marinare.',898);
+INSERT INTO "ricette" VALUES (14446,'Marinata Cotta (2)','Salsa','Vino Rosso',4,' -','100 Cl Vino Rosso,
+2 Carote,
+2 Cipolle,
+1 Costa Sedano,
+Timo,
+2 Bicchieri Aceto Di Vino,
+Abbondante Olio D''oliva,
+Sale,
+Pepe In Grani','Tritate carote, cipolle e sedano e fate colorire il tutto in una pentola con abbondante olio. Aggiungete il vino, l''aceto, il timo, il sale e il pepe. Cuocete a fuoco basso per mezz''ora. Fate raffreddare e poi versate il composto sulla carne o sulla selvaggina lasciandola marinare coperta per circa 24 ore.',1786);
+INSERT INTO "ricette" VALUES (14447,'Marinata Cruda','Salsa','Cipolle',8,'Preparazione: più di 120 minuti.','250 G Cipolle,
+200 G Sedano,
+150 G Carote,
+3 Foglie Alloro,
+3 Chiodi Di Garofano,
+3 Bacche Ginepro,
+1 Bottiglia Vino Bianco Secco,
+10 Grani Pepe Nero,
+Poco Sale','Dosi per marinare 1000 g di carne bovina. Pulite, lavate e tagliate a piccoli pezzi il sedano, le carote e le cipolle, mescolatele in una terrina con l''alloro, i chiodi di garofano, il ginepro e il pepe. Formate con metà degli ingredienti un letto sul tondo di una capace terrina, e adagiatevi la carne da marinare. Coprite con l''altra metà del composto aromatico. Salate leggermente e versatevi sopra il vino bianco secco. Conservate in ambiente fresco, ma non freddo, per almeno 24 ore, rigirando ogni tanto la carne.',899);
+INSERT INTO "ricette" VALUES (14448,'Marinata Di Acciughe','Antipasto','Acciughe',4,'Preparazione: 15 minuti.','400 G Acciughe Fresche,
+1 Cetriolo,
+1 Mazzetto Insalata Rucola,
+1 Confezione Germogli (ravanello O Alfalfa),
+1/2 Cespo Insalata Riccia,
+Aglio,
+1 Limone (succo),
+1 Cucchiaino Senape In Grani,
+Olio D''oliva Extra-vergine,
+Sale,
+Pepe In Grani','Eviscerate le acciughe staccando loro la testa, quindi apritele lungo la linea ventrale, spinatele e, così aperte a libro, mettetele in un piatto, conditele con il succo di mezzo limone, un pizzico di sale, una macinata di pepe, fettine di aglio fresco, un filo d''olio, poi lasciatele marinare al fresco, coperte da pellicola, per almeno 2 ore. Servitele insieme con un cetriolo a rondelle, la rucola, mezzo cespo di riccia e i germogli, il tutto condito con una citronnette preparata frullando g 80 d''olio, sale, pepe macinato, il succo di mezzo limone e un cucchiaino di senape, per ottenere una perfetta emulsione.',1194);
+INSERT INTO "ricette" VALUES (14449,'Marinata Di Alici','Antipasto','Acciughe',4,'Preparazione: 15 minuti.','400 G Acciughe Fresche,
+1 Cetriolo,
+1 Mazzetto Insalata Rucola,
+1 Confezione Germogli (ravanello O Alfalfa),
+1/2 Cespo Insalata Riccia,
+Aglio,
+1 Limone (succo),
+1 Cucchiaino Senape In Grani,
+Olio D''oliva Extra-vergine,
+Sale,
+Pepe In Grani','Eviscerate le acciughe staccando loro la testa, quindi apritele lungo la linea ventrale, spinatele e, così aperte a libro, mettetele in un piatto, conditele con il succo di mezzo limone, un pizzico di sale, una macinata di pepe, fettine di aglio fresco, un filo d''olio, poi lasciatele marinare al fresco, coperte da pellicola, per almeno 2 ore. Servitele insieme con un cetriolo a rondelle, la rucola, mezzo cespo di riccia e i germogli, il tutto condito con una citronnette preparata frullando g 80 d''olio, sale, pepe macinato, il succo di mezzo limone e un cucchiaino di senape, per ottenere una perfetta emulsione.',1194);
+INSERT INTO "ricette" VALUES (14450,'Marinata Di Aringhe','Antipasto','Aringhe',4,' -','4 Aringhe Bianche Fresche (con Il Loro Latte E Le Uova),
+50 Cl Latte,
+25 Cl Aceto Di Vino,
+1 Mazzetto Aromatico (timo, Alloro, Prezzemolo),
+1 Cipolla Grande Tritata,
+1 Chiodo Di Garofano,
+2 Cucchiai Olio D''oliva,
+2 Cucchiai Senape Francese,
+2 Grani Pepe Nero,
+Sale','Mettete in un capace recipiente le aringhe, completamente ricoperte con il latte e lasciatele riposare per tre ore. Sgoccialatele, asciugatele bene, quindi togliete loro la pelle, tutte le lische e anche il loro latte e le uova, che
+metterete da parte in una ciotola. Ricavate i filetti e stendeteli su un tagliere. Mescolate intanto in una ciotolina metà cipolla tritata con la senape e spalmate questo composto sui filetti di aringa. Arrotolateli, fissateli con uno stecchino e disponeteli in un recipiente di coccio, uno accanto all''altro in un solo strato. Ponete l''aceto in una casseruola con la cipolla rimasta, i grani di pepe, il chiodo di garofano, il mazzetto aromatico e il sale. Portate a ebollizione, lasciate cuocere per 15 minuti e passate tutto al setaccio; lasciate raffreddare. Passate il latte e le uova delle aringhe al setaccio, raccogliete il composto in una ampia terrina e unite l''olio a filo sbattendo con la forchetta, e poi piano piano tutta la marinata ormai fredda. Ricoprite con questo composto i rotolini di aringhe e lasciate marinare per 2 giorni: trascorso questo tempo serviteli come saporito antipasto. Variante: potete aggiungere nell''impasto delle patate bollite.',1132);
+INSERT INTO "ricette" VALUES (14451,'Marinata Di Salmone','Pesce','Salmone',4,'Luogo: Regno Unito.','900 G Polpa Di Salmone Fresco,
+50 Cl Aceto Di Vino Bianco,
+3 Cucchiaini Zucchero,
+1/2 Cucchiaino Sale,
+1 Cipolla Affettata,
+1 Limone Affettato Con La Scorza,
+1 Cucchiaino Pepe Nero In Grani,
+1 Cucchiaino Estragone Fresco','Tagliare a cubi di 1 cm. di lato 900 g di polpa di salmone fresco. Far bollire assieme a 1/2 litro di acqua, 1/2 litro di aceto di vino bianco, 3 cucchiaini di zucchero, 1/2 cucchiaino di sale, 1 cipolla affettata, 1 limone affettato con la buccia, 1 cucchiaino di grani di pepe nero. Dopo 5 minuti di leggera bollitura, versare la marinata calda sul salmone, aggiungere 1 cucchiaino di estragone fresco e porre il tutto il frigorifero e riposare per 4 giorni mescolando bene una volta al giorno. Servire con pane caldo fatto in casa.',1484);
+INSERT INTO "ricette" VALUES (14452,'Marinata Piccante','Salsa','Salsa Worcester',4,' -','2 Bicchieri Olio D''oliva,
+1 Limone,
+Poche Gocce Tabasco,
+3 Cucchiai Salsa Worcester,
+Sale','Versate in una larga terrina l''olio d''oliva, unite tre cucchiai di Worcester, il succo di limone e poche gocce di tabasco. Salate, sbattete gli ingredienti per emulsionarli. Marinatevi la carne sia rossa che bianca per 2 ore.',2875);
+INSERT INTO "ricette" VALUES (14453,'Marinata Piccante (2)','Salsa','Salsa Worcester',4,' -','10 Cl Olio D''oliva Extra-vergine,
+2 Cucchiai Succo Di Limone,
+Alcune Gocce Tabasco,
+4 Cucchiai Salsa Worcester','Mettere in una ciotola l''olio, il succo di limone, il tabasco e la salsa Worcester e battere gli ingredienti con una forchetta fino a ottenere una salsa ben emulsionata.',954);
+INSERT INTO "ricette" VALUES (14454,'Marinata Veloce Al Limone','Salsa','Limone',4,' -','2 Bicchieri Olio D''oliva,
+1 Limone,
+1 Rametto Timo,
+Alcune Foglie Prezzemolo,
+1 Foglia Alloro,
+Scalogno,
+Sale,
+Pepe','Emulsionate olio e limone, unite alcune foglioline di prezzemolo, un po'' di scalogno tritato, un rametto di timo e una foglia d''alloro. Lasciatevi insaporire carne o pesce mezz''ora.',2756);
+INSERT INTO "ricette" VALUES (14455,'Maristella','Bevande','Gin',1,' -','1/4 Safari,
+1/4 Gordon''s Gin,
+1/4 Vermouth Martini Bianco,
+1/4 Vermouth Martini Dry,
+Per Guarnire:,
+1 Ciliegina Verde,
+1 Scorzetta Di Limone','Si prepara nello shaker con ghiaccio. Agitare vigorosamente e servire nella coppetta da cocktail ben fredda. Guarnire con una ciliegina verde e una scorzetta di limone.',270);
+INSERT INTO "ricette" VALUES (14456,'Maritozzi','Dessert','Uvetta Sultanina',8,' -','300 G Farina,
+100 G Uvetta Sultanina,
+50 G Pinoli,
+50 G Cedro Candito,
+50 G Zucchero,
+50 G Pasta Da Pane,
+1 Pizzico Sale,
+3 Uova,
+50 G Olio D''oliva','Impastate sulla spianatoia la pasta da pane con circa un terzo della farina, una cucchiaiata d''olio, un pizzico di sale e un uovo intero. Amalgamate bene il tutto, quindi fatene una palla, mettetela in una ciotola, copritela con uno strofinaccio di bucato e lasciate lievitare in luogo tiepido per circa 2 ore. Trascorso questo tempo, rimettete la pasta sulla spianatoia e incorporatevi il resto della farina, lo zucchero, circa 40 g d''olio, un altro uovo e qualche cucchiaiata d''acqua calda: dovrete ottenere un impasto morbido. Aggiungete allora l''uvetta, ammollata e sgocciolata, il cedro tritato e i pinoli. Lavorate ancora a lungo, quindi ricavate dei panini oblunghi e metteteli, un po'' distanziati l''uno dall''altro, sulla placca del forno unta d''olio. Coprite la placca con lo strofinaccio e lasciate lievitare i panini per circa un''ora in luogo tiepido. Prima della cottura, pennellateli con un uovo leggermente battuto e passateli in forno a 180 gradi per circa 15 minuti.',2627);
+INSERT INTO "ricette" VALUES (14457,'Maritozzi ''signa''','Dessert','Miele',8,' -','850 G Farina,
+150 G Miele,
+25 G Lievito Di Birra,
+270 G Latte,
+2 Uova,
+1/2 Bicchiere Olio D''oliva,
+2 Cucchiaini Zucchero,
+1 Manciata Uvetta Sultanina','In una terrina mettere la farina, il lievito sciolto nel latte insieme al miele, impastare un po''; separatamente sbattere le due uova con lo zucchero poi miscelare con il composto prima ottenuto, impastare il tutto poi aggiungere l''olio, continuare a lavorare il composto fino ad ottenere una massa abbastanza morbida (se è il caso aggiungere un po'' di farina o di latte), mettere la massa sulla spianatoia, aggiungere l''uva sultanina (precedentemente messa in ammollo una mezz''ora in acqua tiepida e poi asciugata), impastare ulteriormente, fare dei grossi filoncini, tagliare delle fette dello spessore di 2-3 cm appiattirli con la mano unta di olio, poggiarli sulla teglia con della carta forno, coprirli e farli lievitare per almeno 3 ore, accendere il forno aspettare che raggiunga i 160-180 gradi poi infornare la teglia per 15-20 minuti. Volendo si possono spennellare i maritozzi con latte molto zuccherato, per dargli una colorazione sul lucido. Una volta raffreddati conservarli con molta attenzione (nella carta, in una busta di plastica), per evitare che si secchino. Le dosi sono state pesate con una bilancia elettronica, quindi precise, ma così com''è, non sono molti dolci (questione di gusti), se vi piace la roba più dolce, aggiungete un altro cucchiaino di zucchero, anche due volendo, dipende tutto dalla vostra golosità. L''impasto più risulterà morbido e per più giorni resteranno morbidi, quindi cercate di farlo molto morbido, diciamo pure appiccicoso, tanto ci pensa l''olio a salvarci...',4345);
+INSERT INTO "ricette" VALUES (14458,'Maritozzi (2)','Dessert','Uvetta Sultanina',4,'Luogo: Lazio.','500 G Pasta Di Pane Lievitata,
+50 G Uvetta Sultanina,
+50 G Canditi,
+50 G Pinoli,
+3 Cucchiai Zucchero,
+Alcuni Cucchiai Olio D''oliva Extra-vergine,
+1 Pizzico Sale','Unire alla pasta di pane lievitata qualche cucchiaio di olio, l''uvetta sultanina, i pinoli ed i canditi, aggiungere tre cucchiai di zucchero ed un pizzico di sale. Mescolare bene e formare tanti piccoli maritozzi (panetti allungati di pasta simili a panini) che si lasciano riposare per alcune ore. Metterli in una teglia da forno unta di olio ed infornare per 67 minuti a 250 gradi. Sfornarli, spennellarli con zucchero sciolto in pochissima acqua e metterli in forno per qualche minuto.',3212);
+INSERT INTO "ricette" VALUES (14459,'Maritozzi Della Quaresima','Dessert','Uvetta Sultanina',4,' -','500 G Pasta Di Pane Lievitata,
+20 G Uvetta Sultanina,
+20 G Pinoli,
+40 G Olio D''oliva Extra-vergine,
+Scorza D''arancia Candita,
+3 Cucchiai Zucchero','Spianare la pasta di pane; unirvi l''olio, lo zucchero, la scorza d''arancia, i pinoli, l''uvetta già ammollata in acqua tiepida. Amalgamare l''impasto finché sia elastico e sodo. Ricavare dei panetti e disporli distanziati su una placca da forno unta. Far lievitare finché il loro volume raddoppi e infornare a 200 gradi per 20 minuti, in forno già caldo.',1764);
+INSERT INTO "ricette" VALUES (14460,'Marmellata Ai Quattro Frutti','Dessert','Ciliegie',4,' -','10 Cl Acqua,
+1000 G Zucchero,
+250 G Ciliegie,
+250 G Fragole,
+250 G Ribes,
+250 G Albicocche','Portate a ebollizione la frutta e lo zucchero con 10 cl d''acqua. Fate cuocere per 20 minuti. Ricordiamo alcune regole generali riguardanti le marmellate: prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',4311);
+INSERT INTO "ricette" VALUES (14461,'Marmellata Ai Quattro Frutti (2)','Dessert','Rabarbaro',4,' -','1000 G Zucchero,
+10 Cl Acqua,
+250 G Rabarbaro,
+250 G Fragole,
+250 G Ribes,
+250 G Albicocche','Portate a ebollizione la frutta e lo zucchero con 10 cl d''acqua. Fate cuocere per 20 minuti. Ricordiamo alcune regole generali riguardanti le marmellate: prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',4216);
+INSERT INTO "ricette" VALUES (14462,'Marmellata D''ambra','Dessert','Arancia',4,' -','1 Arancia,
+1 Pompelmo,
+1 Limone Dalla Scorza Sottile,
+Acqua,
+50 Cl Acqua Fredda,
+2 Tazze Acqua,
+Zucchero,
+1 Pizzico Sale,
+Spirito Di Vino','Scegliete 1 arancia, 1 pompelmo e 1 limone dalla buccia sottile senza impurità. Togliete le bucce, tagliatele a fettine sottili, aggiungete 25 cl di acqua fredda e fate bollire per 5 minuti. Scolate l''acqua, aggiungete ancora 25 cl di acquafresca e fate bollire per altri 5 minuti. Scolate ancora e ripetete la stessa operazione per una terza volta. Tagliate la polpa a pezzetti e liberateli da ogni seme o membrana; aggiungete le bucce scolate e bollite. Per ogni tazza di questo composto (polpa e bucce) aggiungete 2 tazze d''acqua e fate bollire per circa 40 minuti. Pesate poi il tutto e aggiungete pari quantità di zucchero e un pizzico di sale. Fate bollire per circa mezz''ora o fino a quando non abbia raggiunto la consistenza appiccicosa della marmellata e il colore dell''ambra dello zucchero caramellato. Mescolate di tanto in tanto per evitare che la marmellata si attacchi sul fondo. A cottura ultimata lasciate raffreddare nella stessa pentola di cottura, questo permetterà i pezzetti di frutta di distribuirsi nella parte fluida. Versate quando è tiepida in vasetti sterilizzati ed asciutti. Lasciate raffreddare completamente, poi coprite con carta oleata spruzzata di spirito di vino e chiudete.',337);
+INSERT INTO "ricette" VALUES (14463,'Marmellata D''uva','Dessert','Uva Nera',4,' -','1000 G Uva Nera Fragola,
+450 G Zucchero','Staccare gli acini dai graspi, lavarli, togliere i semi, e cuocerli per un quarto d''ora circa. Passare al setaccio o al passaverdure. Per un chilo di succo 450 g di zucchero. Cottura circa un''ora.',2300);
+INSERT INTO "ricette" VALUES (14464,'Marmellata Di Albicocche','Dessert','Albicocche',8,' -','2000 G Albicocche,
+Zucchero,
+25 Cl Acqua','Le dosi indicate sono per circa 2500 g di marmellata. Lo zucchero in peso sarà pari a quello della polpa ottenuta con le albicocche. Lavate, spaccate in due e private del nocciolo le albicocche, ponetele in una casseruola con l''acqua e fatele cuocere per circa 15 minuti. Passatele al setaccio o al passaverdure e pesate la polpa ottenuta, che metterete nuovamente nella casseruola con uguale quantità di zucchero. Fate cuocere fino ad ottenere una buona densità. Per stabilire la giusta densità, basterà immergere nella marmellata il dorso di un cucchiaio: sollevatelo e, se il composto che vi rimane attaccato cade formando grosse gocce, la marmellata è pronta. Versate la marmellata in vasetti di vetro e solo quando sarà completamente raffreddata, coprite con dischetti di pergamena e chiudete ermeticamente. Conservate la marmellata in un luogo asciutto e ventilato, possibilmente al buio.',661);
+INSERT INTO "ricette" VALUES (14465,'Marmellata Di Albicocche (2)','Dessert','Albicocche',8,' -','2000 G Albicocche,
+1500 G Zucchero,
+1 Limone,
+Alcune Mandorle D''albicocca','Lavare le albicocche e dividerle per metà. Metterle nella pentola con il succo di limone e con pezzetti di buccia. Aggiungere lo zucchero e cuocere a fuoco bassissimo per 40 minuti. Aggiungere poche mandorle d''albicocca. Mettere nei vasetti e coprire di cellophane. Ricordiamo alcune regole generali riguardanti le marmellate: prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',6532);
+INSERT INTO "ricette" VALUES (14466,'Marmellata Di Albicocche (3)','Dessert','Albicocche',4,' -','2000 G Albicocche,
+1600 G Zucchero','Snocciolate le albicocche e rompete 10 noccioli per prendere la mandorla. Mettete in una pentola lo zucchero e la frutta lasciando cuocere per 35 minuti; aggiungete le mandorle e lasciate cuocere ancora un po''. Il tutto sarà cotto quando sarà diventato denso.',6890);
+INSERT INTO "ricette" VALUES (14467,'Marmellata Di Amarene','Dessert','Amarene',4,' -','1000 G Amarene Snocciolate,
+600 G Zucchero','Usare per ogni 1000 g di amarene snocciolate circa 600 g di zucchero. Far cuocere per 1 ora e 3/4.',2762);
+INSERT INTO "ricette" VALUES (14468,'Marmellata Di Arance','Dessert','Arance',4,' -','800 G Arance,
+1000 G Zucchero,
+1 Limone','Sbucciare la metà delle arance. Mettere le bucce nella pentola, coprire di acqua. Coprire e cuocere 15 minuti. Passare questo sugo e tenerlo in riserva. Affettare molto fine la polpa delle arance. Sbucciate delle altre arance intere (buccia e polpa). Affettare pure il limone. Aggiungere le arance al sugo, pesare. Versare lo stesso peso di zucchero sulla frutta e lasciare riposare una notte. lì giorno dopo mettere tutto nella pentola, mescolare bene e cuocere, senza coperchio, per circa 30 minuti. Versare nei vasetti e coprire subito con carta celophane. Ricordiamo alcune regole generali riguardanti le marmellate: prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',4265);
+INSERT INTO "ricette" VALUES (14469,'Marmellata Di Arance (2)','Dessert','Arance',8,' -','10 Arance,
+2 Limoni,
+Zucchero','Lavate molto accuratamente i frutti per togliere ogni traccia di anticrittogamici. Pesate insieme le arance e i limoni e mettete in una casseruola una uguale quantità di acqua. Sbucciate ora i frutti e tagliate la polpa a fettine sottilissime, togliendo i semi e raccogliendo tutto il succo. Liberate la buccia della parte bianca che non utilizzate; poi tagliate la buccia a fettine sottili; mettete, quindi, la polpa, la buccia ed il succo nella casseruola con l''acqua. Lasciate così una giornata intera. Il giorno seguente mettete a cuocere finché le bucce diventano tenere. Spegnete quindi il fuoco e lasciate raffreddare. Rimettete ora sul fuoco e aggiungete lo zucchero, che dovrà essere in proporzione uguale alla composta. Ad esempio: 1000 g di zucchero per 1000 g di composta. Continuate a mescolare finché la marmellata avrà raggiunto la sua tipica consistenza e si staccherà dal cucchiaio con intermittenza. Versate il prodotto bollente nei vasi di vetro, appena lavati in acqua calda, riempiendo fino ad un centimetro e mezzo dall''imboccatura. Ripulite con cura i bordi e applicate le capsule, chiudendo con decisione ma senza forzare troppo. Capovolgete i vasi, appoggiateli su una superfice non fredda e lasciateli in tale posizione per non meno di 5 minuti, per poi farli raffreddare normalmente.',824);
+INSERT INTO "ricette" VALUES (14470,'Marmellata Di Arance (3)','Dessert','Arance',4,' -','3000 G Arance,
+2000 G Zucchero,
+1 Bicchierino Rum,
+1 Limone','Sbucciate le arance e, con molta cura, togliete la pellicina spicchio per spicchio e gli eventuali semi. Mettetele in una pentola d''acciaio, copritele con lo zucchero e la scorza grattugiata del limone, mescolate bene e fate cuocere a fiamma media. Mescolate continuamente col cucchiaio di legno, schiumando se occorre e dopo circa un ora versatevi il bicchierino di rum e poi spegnete. Fatela raffreddare e mettetela nei vasetti di vetro. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',9177);
+INSERT INTO "ricette" VALUES (14471,'Marmellata Di Arance (4)','Dessert','Arance',10,'Preparazione: 150 minuti. Cottura: 20 minuti.','3000 G Zucchero,
+1 Cucchiaio Succo Di Limone,
+1250 G Arance Amare','Lavate le arance e asciugatele. Tagliatele in due e spremetele. Mettete i semi in un sacchetto di garza e chiudetelo. Tagliate le scorze delle arance con la parte bianca a listarelle sottilissime. Versate il succo di limone, il succo delle arance e le scorze tagliate a listarelle, il sacchetto di garza e tre litri di acqua in una pentola. Mettete la pentola sul fuoco, portate a ebollizione e lasciate sobbollire per due ore, fino a quando le scorze diventano tenere e il contenuto della pentola è diminuito della metà. Nel frattempo scaldate il forno a 110 gradi. Versate lo zucchero su una piastra e infornatelo. Lasciatelo scaldare per trenta minuti. Quando il contenuto della pentola è ridotto a sufficienza, abbassate il fuoco, togliete il sacchetto di garza contenente i semi delle arance, strizzatelo sulla pentola ed eliminatelo. Aggiungete lo zucchero e mescolate fino a quando si è completamente sciolto. Aumentate il fuoco, portate a ebollizione e fate bollire a fuoco vivace per quindici minuti circa, schiumando man mano. Verificate il punto di addensamento con un termometro (104 gradi). Togliete la pentola dal fuoco e lasciate riposare per venti minuti. Mescolate bene per distribuire le listarelle di scorza uniformemente, riempite i barattoli sbollentati, coprite, etichettate e conservate.',12265);
+INSERT INTO "ricette" VALUES (14472,'Marmellata Di Arance (5)','Dessert','Arance',4,' -','1000 G Arance,
+1000 G Zucchero,
+2 Limoni,
+2 Bicchieri Acqua','Sbucciate le arance e tagliate a strisce sottili le bucce. Mettete a bollire le bucce per 20 minuti. Fate a fettine le arance e dividete ogni fettina in 3 pezzi. Togliete i semi e la pelle bianca. Mettete in una pentola i pezzi di arancia con il succo dei limoni, lo zucchero e l''acqua. Quando lo zucchero si è sciolto aggiungete le bucce di arancia. Lasciate cuocere per 1 ora.',4365);
+INSERT INTO "ricette" VALUES (14473,'Marmellata Di Bacche Di Sambuco E Prugne','Dessert','Bacche Di Sambuco',1,' -','1000 G Bacche Di Sambuco,
+1000 G Prugne,
+3000 G Zucchero','Fare cuocere insieme le bacche di sambuco e le prugne, passarle col passaverdura, aggiungere lo zucchero e volendo il succo di un limone. Lasciare sul fuoco sino a che la marmellata fila dal cucchiaio di legno e poi sistemarla direttamente nei vasi e chiudere ermeticamente.',12200);
+INSERT INTO "ricette" VALUES (14474,'Marmellata Di Banane','Dessert','Banane',4,' -','3000 G Banane,
+500 G Mele,
+1500 G Zucchero,
+1 Bicchierino Rum','Lavate e sbucciate la frutta, tagliatela a pezzi e mettetela in una pentola d''acciaio con un bicchiere d''acqua, il rum e lo zucchero. Mettete su fiamma bassa ed iniziate la cottura mescolando fino a che la marmellata non è abbastanza densa. Mettetela nei vasetti e chiudete ermeticamente. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',8595);
+INSERT INTO "ricette" VALUES (14475,'Marmellata Di Cachi','Dessert','Cachi',4,' -','2000 G Cachi,
+1000 G Zucchero,
+1 Mela,
+1/2 Pompelmo','Dopo aver lavato i cachi, togliete il picciolo e schiacciateli (buccia compresa) in una casseruola d''acciaio col fondo spesso. Sbucciate la mela, riducetela a pezzettini e unitela ai cachi insieme al succo del pompelmo. Portate il tutto ad ebollizione: fate cuocere per 3/4 minuti schiumando spesso. Togliete dal fuoco e passate il composto, ancora bollente, al setaccio. A questo punto riversate il passato nella casseruola aggiungendo lo zucchero. Riportate lentamente ad ebollizione, in modo da scioglierlo bene. Rimescolate spesso. Quando, versandone un cucchiaino su un piatto, il composto scorrerà lentamente, la marmellata avrà raggiunto la giusta consistenza e sarà pronta. Invasate la confettura ancora calda fino ad 1 cm dal bordo del recipiente e tappate col coperchio. A questo punto capovolgete il vasetto per cinque minuti in modo che la marmellata, ancora bollente, sterilizzi bene tutto l''interno del contenitore.',9673);
+INSERT INTO "ricette" VALUES (14476,'Marmellata Di Carote','Dessert','Carote',8,' -','2000 G Carote,
+6 Limoni,
+400 G Zucchero','Pulite e raschiate le carote, quindi grattugiatele. Mettete al fuoco una casseruola con la polpa delle carote, pochissima acqua, lo zucchero, il succo e la scorza grattugiata dei limoni. Mescolando periodicamente, fate cuocere su fiamma moderata finché la marmellata avrà raggiunto la giusta consistenza. Invasate a caldo, chiudete ermeticamente e capovolgete i barattoli fino a completo raffreddamento.',2110);
+INSERT INTO "ricette" VALUES (14477,'Marmellata Di Carote (2)','Dessert','Carote',4,' -','1000 G Carote,
+1000 G Zucchero,
+4 Limoni (succo E Scorza Grattugiata)','Raschiare le carote e tagliarle a pezzetti. Cuocerle in poca acqua e scolarle quando saranno tenere. Sciogliere lo zucchero in 200 g della loro acqua di cottura. Passarle, mescolarle allo sciroppo e porle sul fuoco. Cuocere, a fuoco dolce, sempre mescolando con un cucchiaio di legno, fino a quando la marmellata si presenterà densa e si staccherà a fatica dal mestolo. Farla raffreddare, mescolarvi il succo di limone e versare nei vasi.',4155);
+INSERT INTO "ricette" VALUES (14478,'Marmellata Di Castagne','Dessert','Castagne',4,' -','1000 G Castagne Intere Grandi,
+1 Cucchiaino Semi Di Finocchio,
+Zucchero,
+Sale,
+1 Stecca Vaniglia,
+1 Bicchierino Cognac','Mettere le castagne in acqua fredda con i semi di finocchio e il sale. Lessarle per 40 minuti circa e una volta cotte sbucciarle, pelarle e passarle al passaverdure. Mettere in una pentola la purea di castagne ottenuta insieme ad una equivalente quantità di zucchero, aggiungere la stecca di vaniglia e 1 bicchiere d''acqua. Far cuocere per circa una ora a fuoco basso mescolando sempre, fino ad ottenere la consistenza desiderata. Spegnere, togliere la vaniglia e incorporare il cognac. Mettere la marmellata nei vasi e consumare dopo 1 mese.',1966);
+INSERT INTO "ricette" VALUES (14479,'Marmellata Di Castagne (2)','Dessert','Castagne',12,' -','2000 G Castagne Con La Scorza,
+1000 G Zucchero,
+Poca Vaniglina','Sbucciare le castagne, lessarle, togliere la seconda buccia e passarle con il passaverdure. Far caramellare lo zucchero con un po'' d''acqua possibilmente in un recipiente di rame, unire allo zucchero le castagne passate mescolando bene, aggiungere un po'' di vaniglina e versare nei vasetti, chiudendo a caldo.',7548);
+INSERT INTO "ricette" VALUES (14480,'Marmellata Di Castagne (3)','Dessert','Castagne',4,' -','3000 G Castagne,
+1500 G Zucchero,
+1 Bicchierino Rum,
+1 Limone,
+Sale','Lavate e sbucciate le castagne e fatele cuocere mezz''ora in abbondante acqua leggermente salata. Scolatele e, ancora calde, tagliatele e mettetele in una pentola d''acciaio, copritele con lo zucchero e la scorza grattugiata del limone, mescolate bene e rimettete sul fuoco. Mescolate continuamente col cucchiaio di legno, e dopo una mezz''oretta versatevi il bicchierino di rum e poi spegnete. Mettetela nei vasetti quando è ancora calda. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',11418);
+INSERT INTO "ricette" VALUES (14481,'Marmellata Di Ciliegie','Dessert','Ciliegie',4,' -','20 Cl Acqua,
+1000 G Zucchero,
+1000 G Ciliegie','Mettete 20 cl d''acqua e 1000 g di zucchero in una pentola. Fate cuocere per 10 minuti. Indi aggiungete 1000 g di ciliegie e fate cuocere rimestando con cura per 20 minuti. Ricordiamo alcune regole generali riguardanti le marmellate: Prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',4401);
+INSERT INTO "ricette" VALUES (14482,'Marmellata Di Ciliegie (2)','Dessert','Ciliegie',4,' -','3000 G Ciliegie,
+1500 G Zucchero,
+1 Pezzetto Cannella,
+1 Bicchierino Cherry','Togliete il picciolo alle ciliegie, lavatele accuratamente e poi snocciolatele. Mettetele in una pentola d''acciaio ed aggiungetevi lo zucchero ed un pezzetto di cannella. Fate cuocere circa un''ora e mezza, eliminando la schiuma man mano che si forma. Quando avrà raggiunto la giusta consistenza unite lo cherry, mescolate e spegnete, lasciate raffreddare un po'' e poi sistematela nei vasetti. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',7425);
+INSERT INTO "ricette" VALUES (14483,'Marmellata Di Fichi','Dessert','Fichi',8,' -','2000 G Fichi Maturi,
+1000 G Fichi Più Sodi,
+1000 G Zucchero','Cuocere nella pentola i fichi maturi con lo zucchero per 15 minuti. Aggiungere allora i fichi interi e cuocere ancora per 1 ora a fuoco bassissimo. Mettere nei vasetti e coprire di cellophane. Ricordiamo alcune regole generali riguardanti le marmellate: prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',5780);
+INSERT INTO "ricette" VALUES (14484,'Marmellata Di Fichi (2)','Dessert','Fichi Bianchi',4,' -','3000 G Fichi Bianchi Maturi,
+1500 G Zucchero,
+1 Pezzetto Cannella','Togliete il picciolo ai fichi e sciacquateli con cura. Poneteli in una pentola d''acciaio insieme ad un pezzetto di cannella e mescolate col cucchiaio di legno tenendo la fiamma bassa. Intanto fate fondere lo zucchero con tre bicchieri d''acqua e preparate uno sciroppo non troppo denso, poi versatelo sui fichi e continuate la cottura per 30-40 minuti fino a che avrà raggiunto la giusta densità. Quindi fate raffreddare ed invasate. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',7755);
+INSERT INTO "ricette" VALUES (14485,'Marmellata Di Fichi (3)','Dessert','Fichi',4,' -','Fichi Sbucciati,
+Zucchero: Mezzo Del Peso Dei Fichi,
+Cannella In Polvere (facoltativo)','Sbucciate i fichi, pesarli e calcolare la quantità di zucchero occorrente (metà del peso dei fichi). Fare lo sciroppo sciogliendo lo zucchero in un po'' d''acqua, non deve essere troppo liquido, porre sul fuoco e quando comincerà a bollire aggiungete i fichi e continuate la cottura a fuoco moderato, mescolando continuamente con un cucchiaio di legno, fino a che la confettura si sarà addensata (versare alcune gocce su di un piatto inclinato se si arresta la marmellata è pronta. Riempite i barattoli con la marmellata ancora bollente,facendo attenzione a non lasciare vuoti d''aria e a non sporcare l''imboccatura dei vasetti. Coprite i recipienti con un canovaccio possibilmente di lino e lasciate raffreddare completamente. Soltanto allora chiudere ermeticamente con i tappi a vite, facendo attenzione che siano integri.Se piace, durante la cottura, potete aggiungere un pizzico di cannella in polvere.',530);
+INSERT INTO "ricette" VALUES (14486,'Marmellata Di Fragole','Dessert','Fragole',4,' -','20 Cl Acqua,
+1000 G Zucchero,
+1000 G Fragole','Mettete 20 cl d''acqua e 1000 g di zucchero in una pentola. Fate cuocere per 10 minuti. Indi aggiungete 1000 g di fragole e fate cuocere rimestando con cura per 10 minuti. Ricordiamo alcune regole generali riguardanti le marmellate: Prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',4211);
+INSERT INTO "ricette" VALUES (14487,'Marmellata Di Fragole (2)','Dessert','Fragole',4,' -','3000 G Fragole,
+1500 G Zucchero,
+1 Limone','Pulite e lavate le fragole, senza metterle però sotto il getto dell''acqua, mettetele in una terrina e copritele col succo del limone. Lasciatele macerare così per un paio d''ore, poi versatele in una pentola d''acciaio, copritele con lo zucchero e fate cuocere un''ora e mezza o due fino a che raggiunge una certa densità. Appena la marmellata si sarà intiepidita mettetela nei vasetti e chiudete ermeticamente. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',6767);
+INSERT INTO "ricette" VALUES (14488,'Marmellata Di Fragole (3)','Dessert','Fragole',4,' -','2000 G Fragole,
+1500 G Zucchero,
+1 Bicchiere Acqua','In un recipiente mettete acqua, zucchero e lasciate bollire. Versateci dentro le fragole e lasciate cuocere per un po'' a fuoco molto basso. Togliete le fragole e lasciate cuocere il loro succo ancora per 20 di minuti. Rimetteteci le fragole e fate cuocere fino a quando il succo non diventi denso.',6461);
+INSERT INTO "ricette" VALUES (14489,'Marmellata Di Fragole (4)','Dessert','Fragole',4,' -','1000 G Fragole,
+600 G Zucchero,
+1 Limone','Pulire e lavare bene le fragole e farle macerare almeno 120 minuti con lo zucchero e il succo di limone. Dopo le 2 ore di macerazione, metterle sul fuoco e cuocere a fiamma allegra per 30 minuti rimescolando senza interruzione. Togliere dal fuoco, far raffreddare e trasferire nei vasetti di vetro sterilizzati ben asciutti. Coprire con un dischetto di carta oleata imbevuta di cognac, quindi chiudere ermeticamente.',2659);
+INSERT INTO "ricette" VALUES (14490,'Marmellata Di Fragoline Di Bosco','Salsa','Fragoline',4,'Preparazione: 20 minuti. Riposo: 12 ore.','1000 G Fragoline,
+700 G Zucchero,
+Alcool O Liquore A Piacere','Pulite e lavate molto velocemente le fragoline, poi fatele sgocciolare bene. Mettetele in una capace terrina con lo zucchero. Amalgamate bene e lasciate macerare per 15 ore. Fate cuocere per circa venti minuti mescolando spesso e velocemente. Invasate la marmellata ancora calda e fate raffreddare. Potrete poi sterilizzarla per venti minuti, ma la conservazione sarà altrettanto sicura se ricoprirete ogni vaso con uno strato di zucchero imbevuto con alcool puro o liquore a piacere. In questo caso prima di consumare la marmellata, mescolate bene. Lo zucchero e il liquore di copertura la renderanno ancora più profumata. Per preparare questa marmellata si potranno anche usare fragole di orto, basterà diminuire leggermente la dose dello zucchero.',3194);
+INSERT INTO "ricette" VALUES (14491,'Marmellata Di Frutta','Dessert','Mele',4,' -','500 G Mele,
+500 G Prugne Mature,
+300 G Zucchero,
+1 Scorza Di Limone','Sbucciate e tagliate a piccoli pezzi la frutta e mettetela a macerare nello zucchero per almeno 12 ore, ricordandovi di rimestare ogni tanto. Trascorso questo tempo, versate in una pentola bassa il tutto, aggiungete la scorza del limone tagliata a pezzettini e lasciate cuocere senza coperchio a fuoco molto basso per circa 2 ore. Fate raffreddare la marmellata prima di versarla nei contenitori per la conservazione.',1564);
+INSERT INTO "ricette" VALUES (14492,'Marmellata Di Frutta (2)','Dessert','Zucchero',8,' -','1000 G Frutta Sbucciata E Snocciolata,
+500 G Zucchero,
+Alcune Mele,
+Poco Limone','Usare per ogni 1000 g di frutta sbucciata e snocciolata, 500 g circa di zucchero. E'' consigliabile aggiungere qualche mela ed un po'' di limone. Non far cuocere troppo.',2821);
+INSERT INTO "ricette" VALUES (14493,'Marmellata Di Frutta Secca','Dessert','Fichi Secchi',4,' -','500 G Prugne Secche Snocciolate,
+500 G Fichi Secchi,
+500 G Datteri,
+1000 G Zucchero,
+100 Cl Tè,
+1 Bicchierino Brandy,
+1 Limone','Tagliuzzate tutta la frutta secca e mettetela ad ammorbidire nel tè per un''ora. Poi scolatela e fatela cuocere in una pentola d''acciaio con un po'' d''acqua per 15 minuti su fiamma bassa. A questo punto passate il tutto al setaccio, aggiungete lo zucchero, la buccia di limone grattugiata e il brandy e mettete a cuocere per 20 minuti ancora, dopodichè spegnete e mettete nei vasetti. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',7657);
+INSERT INTO "ricette" VALUES (14494,'Marmellata Di Lamponi','Dessert','Lamponi',8,' -','1300 G Lamponi,
+1000 G Zucchero','Le dosi bastano per circa 2000 g di marmellata. Pulite, sciacquate e asciugate leggermente i lamponi. Passateli al setaccio, fino ad ottenere 1000 g di purea, che metterete nella pentola con lo zucchero. Ponete la pentola sul fuoco molto basso, e, sempre girando con il cucchiaio di legno, portate a lentissima ebollizione. Schiumate in superficie e continuate molto lentamente la cottura per circa 25 minuti. Versate su un piattino inclinato una goccia di marmellata: se questa scorrerà lentamente, la marmellata sarà pronta. Versatela quindi in vasi di vetro, lasciate raffreddare, ponete un disco di carta pergamena all''imboccatura e chiudeteli ermeticamente.',4310);
+INSERT INTO "ricette" VALUES (14495,'Marmellata Di Lamponi (2)','Dessert','Lamponi',4,' -','1000 G Lamponi Maturi,
+700 G Zucchero','Lavare i lamponi sotto un getto d''acqua delicato e farli asciugare all''aria aperta. Metterli in una ciotola alternando strati di frutta a strati di zucchero terminando con lo zucchero. Lasciarli a riposo per 1/2 giornata al fresco coperti con una garza. Cuocere a fuoco basso mescolando sempre finché non sia raggiunta la giusta consistenza. Schiumare e travasare in una ciotola di vetro; far riposare al fresco per 2 ore. Rimettere la marmellata nella pentola e cuocerla a fuoco bassissimo mescolando per 15 minuti. Metterla bollente nei vasi tenuti al caldo, lasciar raffreddare e chiudere ermeticamente.',3044);
+INSERT INTO "ricette" VALUES (14496,'Marmellata Di Lamponi, Albicocche E Prugne','Dessert','Lamponi',4,' -','1000 G Zucchero,
+10 Cl Acqua,
+330 G Lamponi,
+330 G Albicocche,
+330 G Prugne','Fate cuocere lo zucchero, la frutta e 10 cl d''acqua per 20 minuti, rimestando con cura. Durante gli ultimi 5 minuti di cottura, riducete a fuoco basso, coprite la pentola. Ricordiamo alcune regole generali riguardanti le marmellate: prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',4224);
+INSERT INTO "ricette" VALUES (14497,'Marmellata Di Limone','Dessert','Limone',8,' -','2000 G Limoni,
+400 G Zucchero','Scegliete limoni polposi e, soprattutto, provenienti da coltivazioni biologiche. Puliteli eliminando la buccia e la pellicina bianca amara che la divide dalla polpa (albedo). Tagliateli a pezzetti ed eliminate i semi, quindi metteteli sul fuoco in una casseruola con lo zucchero, cuocendoli sin quando la marmellata avrà raggiunto la giusta consistenza. Invasate a caldo, chiudete ermeticamente e capovolgete i barattoli sino a completo raffreddamento.',1848);
+INSERT INTO "ricette" VALUES (14498,'Marmellata Di Limone (2)','Dessert','Limoni',4,' -','8 Limoni Non Trattati,
+600 G Polpa Di Limoni,
+1200 G Zucchero,
+200 Cl Acqua','Lavare bene i limoni, asciugarli, togliere la buccia a due limoni con (pelapatate), facendo attenzione a non asportare la parte bianca, tagliare a listelli sottilissimi le bucce, trasferire in una piccola pentola con poca acqua i listelli e cuocere sino che non diventino appena bruniti e trasparenti. Togliere dal fuoco e fare raffreddare Preparare uno sciroppo di 200 g. di acqua e lo zucchero. Nel frattempo tagliare a pezzettini la polpa dei limoni (togliendo tutte le pellicine bianche dei limoni) prendere i semi dei limoni e metterli in un sacchettino di garza, quindi mettere in una pentola capace lo sciroppo, la polpa di limone,il sacchettino con i semi portando lentamente ad ebollizione per 30 minti, mescolando spesso con cucchiaio di legno, filtrare con un colino e fare raffreddare per qualche ora. Rimettere in pentola il preparato spremendo la gelatina che si è formata nel sacchetto di semi, cuocere il tutto lentamente a fuoco lento mescolando sempre con cucchiaio di legno finché la marmellata non scivola lentamente dal cucchiaio. Versare la marmellata nei vasetti precedentemente lavati ed asciugati perfettamente, sigillare con il coperchio, capovolgere i vasetti e farli raffreddare cosi capovolti protetti da una panno.',4789);
+INSERT INTO "ricette" VALUES (14499,'Marmellata Di Limoni','Dessert','Limoni',12,' -','2300 G Marmellata,
+1000 G Limoni Appena Maturi Con Scorza Intatta,
+200 Cl Acqua,
+1000 G Zucchero,
+1 Cucchiaino Essenza Di Vaniglia','Lava i limoni in acqua fredda e punzecchia la scorza, facendo attenzione a non arrivare alla polpa. Copri i limoni con acqua fredda e lasciaveli per 3 giorni cambiando l''acqua almeno 2 volte al dì. Scolali, asciugali e tagliali a fettine molto sottili. Quindi ponili in una casseruola e coprili con 200 cl d''acqua fredda. Porta ad ebollizione e falli sobbollire sino a quando la scorza sarà tenera. Passali al setaccio e poi fai filtrare tutto il succo. Aggiungi lo zucchero e scalda su fiamma bassa sino a quando sarà sciolto. Porta ad ebollizione mescolando continuamente ed eliminando la schiuma che siforma in superficie. Fai bollire per 15-20 minuti, sino a quando la marmellata avrà la giusta consistenza. Aggiungi l''essenza di vaniglia e mescola bene. Lascia riposare per 15 minuti e nel frattempo metti i vasi in forno a temperatura moderata. Versa la marmellata nei vasi, etichetta e conserva al buio in un luogo fresco.',10183);
+INSERT INTO "ricette" VALUES (14500,'Marmellata Di Limoni (2)','Dessert','Limoni',4,' -','12 Limoni,
+1500 G Zucchero,
+3 Bicchieri Acqua','1 gradi giorno: lavate e tagliate i limoni a fette il più sottili possibile; togliete i semi i lasciate macerare nell''acqua fredda. 2 gradi giorno: scaldate l''acqua della macerazione. 3 gradi giorno: togliete le fette di limone e mettetele a cuocere in acqua pulita finché la buccia non sia morbida.Nel frattempo preparate uno sciroppo con acqua e zucchero; fate bollire per 5 minuti. Aggiungete le fette di limone e lasciate cuocere per 45 minuti.',6085);
+INSERT INTO "ricette" VALUES (14501,'Marmellata Di Mele','Dessert','Mele Renette',4,' -','3000 G Mele Renette,
+1500 G Zucchero','Lavate molto accuratamente le mele, eliminate il picciolo, il torsolo e i semi e tagliatele a pezzi con tutta la buccia. Mettetele in una pentola d''acciaio insieme ad un bicchiere scarso d''acqua e fate cuocere per 10-15 minuti. Dopo aggiungete lo zucchero e fate cuocere un''ora e mezza o due fino a che raggiunge una certa densità. Appena la marmellata si sarà intiepidita mettetela nei vasetti e chiudete ermeticamente. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',7230);
+INSERT INTO "ricette" VALUES (14502,'Marmellata Di Mele (2)','Dessert','Mele Renette',4,' -','3000 G Mele Renette,
+1200 G Zucchero,
+2 Limoni (succo E Scorza Grattugiata),
+400 G Cioccolato Fondente,
+Alcune Foglie Limoncina (facoltativo)','Mettete le mele tagliate, il cioccolato a pezzettini e gli altri ingredienti in una pentola antiaderente, poco tradizionale, ma pratica. Quando le mele sono cotte, passatele al setaccio (io uso il frullatore a immersione) e la marmellata sarà già quasi pronta, perché le mele addensano velocemente. Mettetele nei vasetti e chiudete subito. Viene una crostata di mele veramente particolare.',8333);
+INSERT INTO "ricette" VALUES (14503,'Marmellata Di Mele Cotogne','Dessert','Mele Cotogne',4,' -','1000 G Mele Cotogne,
+850 G Zucchero,
+1 Limone,
+10 Cl Acqua','Lavare le mele cotogne e tagliarle a pezzi senza scartare nulla. Metterle in una pentola con l''acqua e cuocerle finché diventano morbide. Passarle al passaverdure e rimetterle nella pentola con il succo del limone e lo zucchero, mescolando ininterrottamente affinché si sciolga bene. Cuocere per circa mezz''ora fino ad ottenere la giusta consistenza sempre mescolando. Versare bollente nei vasi tenuti in caldo e chiudere ermeticamente.',3600);
+INSERT INTO "ricette" VALUES (14504,'Marmellata Di Mele Renette','Dessert','Mele Renette',4,' -','3000 G Mele Renette,
+1200 G Zucchero,
+2 Limoni (succo E Scorza Grattugiata),
+400 G Cioccolato Fondente,
+Alcune Foglie Limoncina (facoltativo)','Mettete le mele tagliate, il cioccolato a pezzettini e gli altri ingredienti in una pentola antiaderente, poco tradizionale, ma pratica. Quando le mele sono cotte, passatele al setaccio (io uso il frullatore a immersione) e la marmellata sarà già quasi pronta, perché le mele addensano velocemente. Mettetele nei vasetti e chiudete subito. Viene una crostata di mele veramente particolare.',8333);
+INSERT INTO "ricette" VALUES (14505,'Marmellata Di Melone','Dessert','Melone',4,' -','3000 G Polpa Di Melone,
+1500 G Zucchero,
+1 Bicchierino Whisky','Sbucciate i meloni, eliminate i semi e tagliate la polpa a pezzi. Coprite con lo zucchero ed il whisky e fate cuocere un''ora e mezza o due. Appena la marmellata sarà pronta fatela intiepidire, mettetela nei vasetti e chiudete ermeticamente. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',6870);
+INSERT INTO "ricette" VALUES (14506,'Marmellata Di Mirtilli','Dessert','Mirtilli',4,' -','1000 G Mirtilli,
+800 G Zucchero','Lavare i mirtilli sotto un getto di acqua delicato e lasciarli asciugare all''aria aperta. Passarli al passaverdura e porli in una pentola con 1 bicchiere d''acqua. Cuocere a fuoco basso mescolando sempre e quando bolle aggiungere lo zucchero. Continuare la cottura a fuoco moderato sempre mescolando con cura finché la marmellata non abbia raggiunto la giusta consistenza. Mettere la marmellata bollente nei vasi tenuti al caldo, lasciar raffreddare e chiudere ermeticamente.',3986);
+INSERT INTO "ricette" VALUES (14507,'Marmellata Di More','Dessert','More',4,' -','3000 G More,
+2000 G Zucchero,
+1 Limone','Togliete il picciolo alle more e sciacquatele con cura. Ponetele in una pentola d''acciaio insieme al succo di limone e lo zucchero, mescolate col cucchiaio di legno e tenete la fiamma bassa. Fate cuocere così per circa un''ora schiumando se occorre. Quando la densità sarà giusta spegnete ed invasate subito. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',8637);
+INSERT INTO "ricette" VALUES (14508,'Marmellata Di More (2)','Dessert','More',4,' -','1000 G More Mature,
+500 G Zucchero','Lavare le more sotto un getto d''acqua delicato e lasciarle asciugare all''aria aperta. Metterle quindi in una pentola e farle cuocere su fuoco moderato per circa 10 minuti. Toglierle dalla pentola e schiacciarle in una ciotola con una paletta di legno. Rimettere le more nella pentola, unire lo zucchero e cuocere a fuoco moderato sempre mescolando finché non sia raggiunta la giusta consistenza. Mettere la marmellata bollente nei vasi, lasciar raffreddare e chiudere ermeticamente.',2220);
+INSERT INTO "ricette" VALUES (14509,'Marmellata Di Pere','Dessert','Pere',4,' -','3000 G Pere,
+2000 G Zucchero,
+1 Arancia,
+Cannella','Lavate e sbucciate le pere, eliminate il torsolo ed i semi e tagliatele a pezzi. Mettetele in una pentola d''acciaio con un pò di cannella e la buccia grattugiata dell''arancia, copritè con un bicchiere d''acqua e fate cuocere per 15 minuti. A questo punto unite lo zucchero, mescolate e continuate la cottura per circa un''ora. Appena avrà raggiunto la giusta consistenza spegnete e mettete la marmellata nei vasetti di vetro. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',9085);
+INSERT INTO "ricette" VALUES (14510,'Marmellata Di Pesche','Dessert','Pesche',4,' -','3000 G Pesche,
+1500 G Zucchero,
+1 Limone','Lavate accuratamente le pesche, sbucciatele, tagliatele ed eliminate il nocciolo. Mettetele in una pentola di acciaio con mezzo bicchiere d''acqua e la scorza del limone grattugiata e fate cuocere per 15 minuti. Dopo passatele al setaccio e rimettetele nella pentola insieme allo zucchero. Mettete su fiamma bassa e fate cuocere circa un ora e mezza, fino a che hà raggiunto la giusta densità, dopodichè sistematela nei vasetti. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',6797);
+INSERT INTO "ricette" VALUES (14511,'Marmellata Di Pompelmi (2)','Dessert','Pompelmi',4,' -','1000 G Pompelmi,
+Acqua,
+1000 G Zucchero','Sbucciate i pompelmi e tagliate la buccia a striscioline. Mettete in un tegame le strisce di scorza coprendole di acqua e lasciandole bollire per 5 minuti. Ripetete questa operazione per 5 volte in modo da far perdere il sapore amaro. Mettete in un tegame il pompelmo tagliato a fettine, le strisce di scorza e lo zucchero. Cuocete fino a che il liquido non diventi gelatina. Togliete dal fuoco, fate raffreddare e poi mettete il tutto in vasi di vetro con chiusura ermetica.',4281);
+INSERT INTO "ricette" VALUES (14512,'Marmellata Di Pompelmi E Arance','Dessert','Pompelmi',4,' -','3 Pompelmi,
+3 Arance Grandi,
+Acqua,
+Zucchero','Togliete la buccia a 3 pompelmi, eliminando prima la parte esterna e poi quella bianca più interna, che metterete a bagno separatamente. Tagliate il resto del frutto a pezzetti e mettetelo a bagno coperto d''acqua. Spremete il succo di 3 grosse arance, tagliate il resto a pezzetti e mettetelo a bagno per tutta una notte e fate bollire. Scolate e aggiungete ai pezzetti di pompelmo. Aggiungete ancora acqua quanto basta a coprire e fate bollire fino a che la frutta sarà ammorbidita. Aggiungete il succo d''arancia, pesate e aggiungete pari quantità di zucchero. Fate bollire, girando di tanto in tanto, fino a che la marmellata sarà pronta. Versatela ancora tiepida nei vasetti, lasciate raffreddare e chiudetelicome precedentemente indicato. Se pensate di non usare subito la marmellata potete anche sigillare i vasetti facendo gocciolare lungo il margine del tappo di chiusura della cera liquida.',669);
+INSERT INTO "ricette" VALUES (14513,'Marmellata Di Pompelmo','Dessert','Pompelmi',12,' -','2 Pompelmi Grandi,
+2000 G Zucchero,
+150 Cl Acqua','La maggior parte della vitamina C è contenuta nella polpa e nella buccia degli agrumi. Questa marmellata, che ne contiene in gran quantità, è quindi particolarmente adatta all''alimentazione delle persone che ne hanno bisogno. Dopo aver preparato i frutti ben puliti, tagliateli a quarti, liberateli dai semi e metteteli nel frullatore. Calcolate per ogni2 grossi pompelmi (circa 1000 g), 2000 g di zucchero e 150 cl d''acqua. Mettete tutto sul fuoco e fate cuocere fino a quando la marmellata non sarà cotta. Per determinarne il punto di cottura regolatevi come per la gelatina di pompelmo (vedi ricetta).',8113);
+INSERT INTO "ricette" VALUES (14514,'Marmellata Di Prugne','Dessert','Prugne',4,' -','Prugne,
+Zucchero','Lavate le prugne e togliete il nocciolo, pesatele e mettetele in una terrina a macerare per mezza giornata con 750 g di zucchero per ogni 1000 g di frutta. Dopodichè cuocete il tutto dentro una pentola finché il succo non sia denso. Togliete la schiuma che si andrà a formare durante la cottura. Lasciate raffreddare e poi mettete la frutta dentro vasi di vetro, aggiungendo il succo in parti uguali. Chiudete ermeticamente.',71);
+INSERT INTO "ricette" VALUES (14515,'Marmellata Di Prugne (2)','Dessert','Prugne Nere',4,' -','1200 G Prugne Nere E Sane,
+320 G Zucchero,
+1 G Acido Salicilico','Tagliare a metà le prugne, estrarre i noccioli e metterli da parte. Controllare il peso della frutta, metterla in pentola, coprire con 1 bicchiere grande di acqua e cuocerla dolcemente per 210 minuti. Unire poi lo zucchero e continuare a cuocere, sempre mescolando, a fuoco dolcissimo, per circa 4 ore; 1 ora prima di togliere dal fuoco unire 10 semi estratti dai noccioli e tritati, l''acido salicilico e mescolare bene. Versare in vasi di vetro.',1627);
+INSERT INTO "ricette" VALUES (14516,'Marmellata Di Prugne Nere','Dessert','Prugne Nere',8,' -','2000 G Prugne Nere,
+1500 G Zucchero,
+1 Limone','Lavare le prugne e dividerle per metà. Metterle nella pentola con il succo di limone e con pezzetti di buccia. Aggiungere lo zucchero e cuocere a fuoco bassissimo per 40 minuti. Mettere nei vasetti e coprire di celophane. Ricordiamo alcune regole generali riguardanti le marmellate: prendete solo frutta sana per la preparazione delle marmellate; lavate bene la frutta, togliete i noccioli o gli acini; contate 1000 g di zucchero per ogni 1000 g di frutta; non mettete a cuocere troppo alla volta; prendete 1000 g per cottura: così lo zucchero non si cristallizza e le marmellate conserveranno il loro bel colore; fate cuocere a fuoco medio, finché si forma una leggera schiuma sulla marmellata, quindi riempite i vasetti; versate della paraffina liquida sulla confettura oppure tendete una carta di cellophane sui vasetti; lasciate raffreddare lentamente la marmellata e conservatela in un luogo asciutto e con poca luce.',6517);
+INSERT INTO "ricette" VALUES (14517,'Marmellata Di Rosa Canina','Dessert','Rosa Canina',8,' -','1000 G Frutti Di Rosa Canina,
+1 Bicchiere Acqua,
+350 G Zucchero','Innanzitutto recatevi a cogliere i frutti della rosa canina, ben maturi. Lavate e pulite i frutti, cercando di scartare la maggior quantità di semi possibile (e la minor quantità possibile di polpa...). Da un chilo di frutti sarete passati a 250 g tra bucce e polpa ed altri 100 g di semi che non sarete riusciti a togliere. Aggiungete 1/2 bicchiere d''acqua e mettete sul fuoco piuttosto basso. Lasciate cuocere per mezz''ora, poi passate il tutto al setaccio, eliminando così finalmente i semi. Il risultato ricorda tremendamente il passato di pomodoro. Rimettete sul fuoco. Aggiungete un altro mezzo bicchiere d''acqua e 350 g di zucchero (ricordatevi che la rosa canina è piuttosto asprigna). Lasciate cuocere un''altra mezz''ora, mescolando, poi lasciate raffreddare e mettete nei vasi.',1871);
+INSERT INTO "ricette" VALUES (14518,'Marmellata Di Rosa Canina Al Miele','Dessert','Rosa Canina',4,' -','Rosa Canina (bacche),
+Miele','Raccogliete le bacche di rosa canina quando sono così mature che si staccano facilmente dal ramo, e raccoglietene tante, perché ogni bacca contiene molta poca polpa. Pulitele e togliete loro il puntino nero che sta ad una delle estremità e che altro non è che il resto del fiore (ovvero della rosa). A questo punto divertitevi a passare al passaverdure le bacche, in modo da eliminare bucce e semi, raccogliendo la polpa. Pesate la polpa ottenuta ed aggiungete uguale peso di miele (consiglio un miele d''acacia o un millefiori, comunque fluido e non troppo aromatico). La vostra conserva è pronta, travasatela nei contenitori e gustatevela. Tenete presente che non essendo cotta contiene ancora tutta la sua vitamina C.',117);
+INSERT INTO "ricette" VALUES (14519,'Marmellata Di Rose','Dessert','Petali Di Rose',4,' -','200 G Petali Di Rosa,
+500 G Zucchero,
+600 G Acqua,
+1/2 Limone','Lavare i petali e triturarli con la mezzaluna (non troppo fini perché non vada via il succo), mescolarli con lo zucchero (200 g), e il limone (impastandoli con le mani e mescolandoli a lungo). Fate scaldare l''acqua con il resto dello zucchero e con l''impasto, fate bollire fino ad avere uno sciroppo denso. Quando diventa vischiosa la marmellata è pronta.',2009);
+INSERT INTO "ricette" VALUES (14520,'Marmellata Di Sottobosco','Dessert','More',4,' -','300 G More,
+200 G Ribes Rosso,
+200 G Lamponi,
+450 G Zucchero,
+7 Cucchiai Miele Millefiori,
+1 Limone (scorza),
+2 Cucchiai Succo Di Limone','Lavare bene la frutta. Sgranare i chicchi di ribes e metterli in una casseruola di alluminio possibilmente antiaderente. Aggiungere 200 g di zucchero e cuocere per 5 minuti. Poi, passare il tutto al setaccio e conservare il passato di ribes a parte. Nel frattempo, mettere le more e i lamponi con il resto dello zucchero, il succo e la buccia del limone in un''altra casseruola di alluminio possibilmente antiaderente. Portare a ebollizione e unire il passato di ribes. Cuocere per circa 10 minuti a fuoco moderato finché la marmellata risulta addensata. Poi, togliere dal fuoco e unire il cucchiaio di miele. Mescolare bene. Versare la marmellata in vasi di vetro e chiuderli ermeticamente. Sterilizzare i vasi per 15 minuti in una pentola d''acqua bollente: sobbollirli dolcemente avvolti in un panno. Farli raffreddare nell''acqua di sterilizzazione e poi riporre i vasi ormai freddi in dispensa.',2284);
+INSERT INTO "ricette" VALUES (14521,'Marmellata Di Susine','Dessert','Susine',4,' -','3000 G Susine,
+1500 G Zucchero','Lavate e snocciolate le susine, mettetele in una pentola d''acciaio con un bicchiere d''acqua e fate cuocere 15 minuti. Poi passatele al setaccio, unitevi lo zucchero e rimettete sul fuoco fino a che non si addensa. Sistemate la marmellata nei vasetti e conservate. Note: si deve usare frutta sana e al punto giusto di maturazione, evitando di lavarla troppe volte in acqua e strofinandola invece con un panno pulito; per la cottura sono da preferire pentole in acciaio dal fondo alto dato che questa è lenta e molto lunga; per i recipienti di vetro bisogna avere la massima cura e pulizia e devono essere obbligatoriamente a chiusura ermetica; infine, se la marmellata si ammuffisce in superficie eliminate quella parte, pulite il vasetto e coprite con dell''alcool per liquore a 90 gradi.',6960);
+INSERT INTO "ricette" VALUES (14522,'Marmellata Di Viole Mammole','Dessert','Viole Mammole',4,' -','100 G Viole Mammole (fiori),
+1 Tazza Acqua Calda,
+350 G Zucchero','La quantità di zucchero può essere variata a seconda di come piace la marmellata: più o meno dolce. Mettere 75 dei 100 g di fiori nell''acqua calda e lasciar riposare tutta la notte; il giorno seguente aggiungere lo zucchero e gli altri fiori e far bollire; passare al setaccio e mettere nei vasi.',1387);
+INSERT INTO "ricette" VALUES (14523,'Marmellata Di Zucca','Dessert','Zucche',4,' -','1000 G Zucca Cotta A Vapore E Filtrata,
+800 G Zucchero,
+1/2 Limone (succo),
+1 Bustina Fruttapec','Fare raffreddare la zucca. In una pentola amalgamatela con il succo di limone, la bustina di Fruttapec e un po'' d''acqua se risulta troppo ''dura''. Far bollire un minuto e poi aggiungervi lo zucchero. Mescolare sempre e dal primo bollore, far passare 12 minuti. Invasare immediatamente.',3439);
+INSERT INTO "ricette" VALUES (14524,'Marmellata Ghiotta','Dessert','Pere',4,' -','6 Pere,
+2 Albumi D''uovo','Sbucciate le pere, togliete il torsolo e tagliatele a dadini; mettetele a cuocere in un tegame con qualche cucchiaio d''acqua fino ad ottenere una marmellata poco cotta e con qualche pezzo. Montate a neve i 2 albumi. Versate la marmellata in coppette, guarnite con l''albume e fate dorare leggermente nel forno già caldo. Servite caldo.',436);
+INSERT INTO "ricette" VALUES (14525,'Marmotta Al Lavècc','Carne','Marmotta',4,' -','1 Marmotta,
+Burro Di Pura Panna,
+1/2 Bicchiere Aceto Di Vino Forte,
+100 Cl Vino Valtellina,
+Poco Sedano,
+2 Carote Spezzettate,
+Salvia,
+1 Cucchiaio Pepe,
+1 Pugno Timo Selvatico','La marmotta, subito dopo la cattura, aperta e ben pulita all''interno, si appende in un locale fresco dove si lascia frollare sotto pelle per cinque o sei giorni. Poi, liberata della pelle e di tutto il grasso, si taglia a pezzi. In una pentola di pietra ollare (lavècc), si mette il burro di pura panna e la marmotta facendo rosolare il tutto, se necessario per la quantità della carne, a più riprese. Indi con mezzo bicchiere di aceto forte, un litro e più di buon vino Valtellina e un pò d''acqua si copre la carne e si fa bollire. Spento il fuoco, si aggiungono nell''infuso intanto ottenutosi due carote spezzettate, un pò di sedano, salvia e un cucchiaio di pepe. Inoltre vi si cala un pugno di timo selvatico, avvolto prima in un pezzo di tela o di cotone. Si lascia così la carne di marmotta in fusione per almeno ventiquattro ore, avendo cura di chiudere il lavècc con il suo coperchio. Infine si fa cuocere il tutto, lentamente, per due o tre ore, mescolando di tanto in tanto sino a cottura. Se il sugo si restringe, aggiungere un pò d''acqua calda. Perché la cottura sia giusta la carne non deve staccarsi dall''osso. Questo piatto, delicato e saporito, è attualmente alla portata dei soli bracconieri, essendo vietata la caccia alla marmotta.',3585);
+INSERT INTO "ricette" VALUES (14526,'Marnissimo','Bevande','Grand Marnier Cordon Rouge',1,' -','3 Cl Grand Marnier Cordon Rouge,
+6 Cl Caffè,
+Panna Montata,
+1 Cucchiaino Zucchero In Polvere','Versare nel bicchiere grande lo zucchero e aggiungere il Grand Marnier riscaldato a bagnomaria (un bicchiere circa è la dose). Aggiungere una quantità doppia di caffè caldo. Mescolare e decorare la superficie con panna montata. Servire senza più mescolare.',250);
+INSERT INTO "ricette" VALUES (14527,'Marquesa De Chocolate','Dessert','Cioccolata',4,' -','50 G Zucchero,
+1 Cucchiaio Farina,
+4 Uova Separate,
+4 Cucchiai Latte,
+50 G Burro,
+200 G Cioccolata Fondente,
+1 Cucchiaino Essenza Di Vaniglia,
+1 Arancia (scorza Grattugiata),
+Panna Montata','Mescolare zucchero, farina e tuorli in un tegame. Aggiungere lentamente il latte. Riscaldarlo gentilmente girando con un frullatore in modo tale che non forma i granolini e a finché non acquista la consistenza di una maionese liquida. Aggiungere il burro, un po'' alla volta, girando la miscela. Togliere tutto dalla fiamma. Aggiungi il cioccolato in forma grattugiata, la vaniglia e la buccia di arancia. Mescolarlo a finché non sia sciolto tutto. Montare gli albumi fino a che non sono sodi e unirli delicatamente con il resto. Versare la miscela nei bicchieri e farlo raffreddare per almeno 5 ore. Aggiungere la panna montata prima di servirli.',2376);
+INSERT INTO "ricette" VALUES (14528,'Marquesotes','Dessert','Uova',4,'Luogo: Messico.','250 G Zucchero,
+200 G Farina,
+8 Uova,
+1 Limone (scorza Grattugiata),
+Burro','Sbattere le uova in una terrina e sempre mescolando unire lo zucchero, poi la scorza di limone e la farina, continuando a sbattere a lungo ed energicamente. Imburrare uno stampo, versarvi il composto e cuocere in forno a 180 gradi finché la superficie sarà dorata. Togliere dal forno, sformare il tortino, tagliarlo a fette e infornarle nuovamente fino a doratura completa.',3122);
+INSERT INTO "ricette" VALUES (14529,'Marquise Al Cioccolato','Dessert'
