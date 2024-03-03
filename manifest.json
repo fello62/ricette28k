@@ -1,0 +1,11 @@
+{
+ "short_name": "Ricette28k",
+ "name": "Ricette28k 28200 ricette",
+ "icons": [
+  { "src": "apple-touch-icon.png",
+    "sizes": "144x144" }
+ ],
+ "start_url": "index.htm",
+ "display": "standalone",
+ "lang": "it-IT"
+}
