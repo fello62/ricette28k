@@ -1,8 +1,8 @@
-var cacheName='Ricette28k_v20230326.1';
+var cacheName='Ricette28k_v20240303.1';
 var filesToCache=[
  './',
- 'index.htm',
- 'sw.js',
+ 'index.html',
+ 'apple-touch-icon.png',
  'css/bootstrap.min.css',
  'fonts/glyphicons-halflings-regular.eot',
  'fonts/glyphicons-halflings-regular.svg',
