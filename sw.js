@@ -1,4 +1,4 @@
-var cacheName='Ricette28k_v20230324.1';
+var cacheName='Ricette28k_v20240304.1';
 var filesToCache=[
  './',
  'apple-touch-icon.png',
